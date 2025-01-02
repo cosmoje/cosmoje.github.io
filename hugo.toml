@@ -1,0 +1,162 @@
+baseURL = "https://cosmojenytin.fi"
+languageCode = "fi"
+theme = "adritian"
+defaultContentLanguage = "fi"
+pluralizeListTitles = false
+
+[languages]
+
+  [languages.fi]
+    disabled = false
+    languageCode = 'fi'
+    languageDirection = 'ltr'
+    languageName = 'Suomi'
+    title = ''
+    weight = 3
+      [[languages.fi.menus.header]]
+        name = 'Cosmosta'
+        URL = '/about'
+        weight = 1
+      
+      [[languages.fi.menus.footer]]
+        name = 'Cosmosta'
+        URL = '/about'
+        weight = 1
+
+      [[languages.fi.menus.header]]
+        name = "Blogi"
+        URL = "/blog"
+        weight = 2
+
+      [[languages.fi.menus.footer]]
+        name = "Blogi"
+        URL = "/blog"
+        weight = 2
+
+      [[languages.fi.menus.header]]
+        name = "Ota yhteyttä"
+        URL = "#contact"
+        weight = 3
+      
+      [[languages.fi.menus.footer]]
+        name = "Ota yhteyttä"
+        URL = "#contact"
+        weight = 3
+
+  [languages.sv]
+    disabled = false
+    languageCode = 'sv'
+    languageDirection = 'ltr'
+    languageName = 'Svenska'
+    title = ''
+    weight = 3
+
+    [languages.sv.menus]
+      [[languages.sv.menus.header]]
+        name = 'Om Cosmo'
+        URL = 'sv/#about'
+        weight = 1
+
+      [[languages.sv.menus.footer]]
+        name = 'Om Cosmo'
+        URL = 'sv/#about'
+        weight = 1
+
+      [[languages.sv.menus.header]]
+        name = "Blogg"
+        URL = "sv/blog"
+        weight = 2
+
+      [[languages.sv.menus.footer]]
+        name = "Blogg"
+        URL = "sv/blog"
+        weight = 2
+
+      [[languages.sv.menus.header]]
+        name = "Ta kontakt"
+        URL = "sv/#contact"
+        weight = 3
+
+      [[languages.sv.menus.footer]]
+        name = "Ta kontakt"
+        URL = "sv/#contact"
+        weight = 3
+  
+  [languages.en]
+    disabled = true
+    languageCode = 'en'
+    languageDirection = 'ltr'
+    languageName = 'English'
+    title = ''
+    weight = 1
+
+    [languages.en.menus]
+      [[languages.en.menus.header]]
+        name = 'About'
+        URL = 'en/#about'
+        weight = 1
+
+      [[languages.en.menus.footer]]
+        name = "About"
+        URL = "en/#about"
+        weight = 1
+
+      [[languages.en.menus.header]]
+        name = "Blog"
+        URL = "en/blog"
+        weight = 2
+
+      [[languages.en.menus.footer]]
+        name = "Blog"
+        URL = "en/blog"
+        weight = 2
+
+      [[languages.en.menus.header]]
+        name = "Contact"
+        URL = "en/#contact"
+        weight = 3
+
+      [[languages.en.menus.footer]]
+        name = "Contact"
+        URL = "en/#contact"
+        weight = 3
+
+# Plugins
+[params.plugins]
+
+  # CSS Plugins
+  [[params.plugins.css]]
+  URL = "css/main.css"
+  [[params.plugins.css]]
+  URL = "css/adritian-icons.css"
+  [[params.plugins.css]]
+  URL = "css/custom.css"
+
+  # JS Plugins
+  [[params.plugins.js]]
+  URL = "js/rad-animations.js"
+  [[params.plugins.js]]
+  URL = "js/sticky-header.js"
+  [[params.plugins.js]]
+  URL = "js/library/fontfaceobserver.js"
+
+  # SCSS Plugins
+  [[params.plugins.scss]]
+  URL = "css/menu.scss"
+
+[params]
+
+  sections = ["showcase", "about", "contact"]
+
+  homepageExperienceCount = 6
+
+  # controls vercel page insights - disabled by default
+  vercelPageInsights = false
+  vercelAnalytics = false
+  
+  [params.google_analytics]
+      code = "UA-XXXXX-Y"
+      enabled = false
+  [params.google_tag_manager]
+      code = "GTM-XXXXX"
+      enabled = false
