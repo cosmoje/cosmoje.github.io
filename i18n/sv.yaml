@@ -1,0 +1,431 @@
+## Header
+- id: "logo_text1"
+  translation: "Cosmo"
+
+- id: "logo_text2"
+  translation: "Jenytin"
+
+## Footer
+- id: "language"
+  translation: "Språk"
+
+## Homepage head title
+- id: "head_title"
+  translation: "Cosmo Jenytin – De Gröna"
+
+- id: "head_description"
+  translation: "Cosmo Jenytin, kandidat för De Gröna i kommunalvalet 2025 till Esbo stadsfullmäktige."
+
+## Homepage showcase
+- id: "showcase_title"
+  translation: "Cosmo Jenytin – välbefinnande på kort och lång sikt."
+
+- id: "showcase_subtitle"
+  translation: "Kandidat till Esbo stadsfullmäktige 2025"
+
+- id: "showcase_description"
+  translation: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam
+  auctor, nunc nec ultricies ultricies, nunc nisl tincidunt nunc, nec ultricies."
+
+# - id: "showcase_button"
+#   translation: "Kontakta mig"
+
+  ## not visible but used for accessibility
+- id: "showcase_image_alt"
+  translation: "Bild av Cosmo Jenytin"
+
+## Homepage about
+- id: "about_title"
+  translation: "Vem är jag?"
+
+- id: "about_content"
+  translation:  <p class="lead">
+      Här är lite information om mig.
+      </p>
+      <p class="lead">
+      Du förklarar något om din akademiska/studiebakgrund, samt dina
+      föredragna arbetsområden. Tänk på detta område som en kontext för den erfarenhet
+      som du kommer att beskriva nedan. Varför bytte du jobb? Vad drev dig att ta ett 
+      nytt jobb? Även om du inte letar efter ett jobb är det ett bra sätt att antyda om
+      vilka typer av projekt du är intresserad av.
+    </p>
+
+- id: "about_button"
+  translation: "Om Cosmo"
+
+# ## Homepage experience
+# - id: "experience_title"
+#   translation: "Erfarenhet"
+
+# - id: "experience_description"
+#   translation: "Här kan du lyfta fram lite av din erfarenhet. Totala år av erfarenhet, specialisering, etc."
+
+# - id: "experience_button"
+#   translation: "LinkedIn" 
+
+# - id: "experience_button_url"
+#   translation: "https://www.linkedin.com/in/cosmojenytin/"
+
+# - id: "experience_button2"
+#   translation: "Ladda ner CV"
+
+# - id: "experience_button2_url"
+#   translation: "/img/general/user-smile-fill.svg"
+
+# - id: "experience_button3"
+#   translation: "Visa hela CV"
+
+# - id: "experience_button3_url"
+#   translation: "/erfarenhet"
+
+# ## Homepage client & work
+# - id: "client_work_title"
+#   translation: "Kunder & Arbete"
+
+# ## Homepage newsletter
+# - id: "newsletter_title"
+#   translation: "Nyhetsbrev"
+
+# - id: "newsletter_button"
+#   translation: "Prenumerera"
+
+# - id: "newsletter_placeholder"
+#   translation: "Din e-post"
+
+# - id: "newsletter_success_message"
+#   translation: "Tack för att du prenumererar på mitt nyhetsbrev!"
+
+# - id: "newsletter_error_message"
+#   translation: "Ett fel inträffade. Försök igen."
+
+# - id: "newsletter_note"
+#   translation: "Vi delar aldrig din e-post med någon annan."
+
+# ## Homepage testimonials
+# - id: "testimonials_title"
+#   translation: "Referenser"
+
+## Homepage contact
+- id: "contact_title"
+  translation: "Kontakta mig"
+
+- id: "contact_button"
+  translation: "Skicka meddelande"
+
+- id: "contact_form_name"
+  translation: "Fullständigt namn"
+
+- id: "contact_form_email"
+  translation: "E-postadress"
+
+- id: "contact_form_message"
+  translation: "Skriv ditt meddelande här"
+
+# - id: "contact_phone_title"
+#   translation: "Telefonnummer"
+
+# - id: "contact_phone_number"
+#   translation: "+358 123 456 789"
+
+- id: "contact_email_title"
+  translation: "E-post"
+
+- id: "contact_email_email"
+  translation: '<a href="mailto:cosmo@cosmojenytin.fi">cosmo@cosmojenytin.fi</a>'
+
+- id: "contact_button"
+  translation: "Skicka meddelande"
+
+## Blog
+- id: "read_more"
+  translation: "Läs mer"
+
+- id: "published_on"
+  translation: "Publicerad"
+
+- id: "continue_reading"
+  translation: "Fortsätt läsa"
+
+- id: "blog"
+  translation: Blogg
+
+- id: "blog_page_title"
+  translation: "Blogg"
+
+## Education
+- id: "education_title"
+  translation: "Utbildning"
+
+
+## Navigation/breadcrumbs
+- id: "sv"
+  translation: "Svenska"
+
+
+# Everything below from: https://github.com/HugoBlox/hugo-blox-builder/blob/main/modules/blox-tailwind/i18n/sv.yaml
+
+# Navigation
+
+- id: toggle_navigation
+  translation: Växla navigering
+
+- id: table_of_contents
+  translation: Innehållsförteckning
+
+- id: on_this_page
+  translation: Innehåll
+
+- id: back_to_top
+  translation: Tillbaka till toppen
+
+- id: home
+  translation: Framsida
+
+- id: close
+  translation: Close
+
+- id: languages
+  translation: Languages
+
+# General
+
+- id: related
+  translation: Relaterad
+
+- id: minute_read
+  translation: Min Läsning
+
+- id: previous
+  translation: Föregående
+
+- id: next
+  translation: Nästa
+
+- id: figure
+  translation: 'Figur %d:'
+
+- id: edit_page
+  translation: Redigera den här sidan
+
+# Themes
+
+- id: theme_selector
+  translation: Display preferences
+
+- id: theme_light
+  translation: Light
+
+- id: theme_dark
+  translation: Dark
+
+- id: theme_auto
+  translation: Automatic
+
+# Buttons
+
+- id: btn_preprint
+  translation: Manuscript
+
+- id: btn_pdf
+  translation: PDF
+
+- id: btn_cite
+  translation: Citera
+
+- id: btn_slides
+  translation: Presentationer
+
+- id: btn_video
+  translation: Video
+
+- id: btn_code
+  translation: Kod
+
+- id: btn_dataset
+  translation: Datauppsättning
+
+- id: btn_project
+  translation: Projekt
+
+- id: btn_poster
+  translation: Affisch
+
+- id: btn_source
+  translation: Källdokument
+
+- id: btn_copy
+  translation: Kopia
+
+- id: btn_copied
+  translation: Copied
+
+- id: btn_download
+  translation: Ladda ner
+
+# About widget
+
+- id: interests
+  translation: Intressen
+
+- id: education
+  translation: Utbildning
+
+- id: user_profile_latest
+  translation: Senaste Inläggen
+
+# Accomplishments widget
+
+- id: see_certificate
+  translation: Se certifikat
+
+# Experience widget
+
+- id: present
+  translation: Nuvarande
+
+# Pages widget
+
+- id: more_pages
+  translation: Se allt
+
+- id: more_posts
+  translation: Se alla inlägg
+
+- id: more_talks
+  translation: Se alla föredrag
+
+- id: more_publications
+  translation: Se alla publikationer
+
+# Contact widget
+
+- id: contact_name
+  translation: Namn
+
+- id: contact_email
+  translation: E-post
+
+- id: contact_message
+  translation: Meddelande
+
+- id: contact_attachment
+  translation: Attach file
+
+- id: contact_send
+  translation: Skicka
+
+- id: book_appointment
+  translation: Boka ett möte
+
+# Publication/Event details
+
+- id: abstract
+  translation: Abstrakt
+
+- id: publication
+  translation: Publikation
+
+- id: publication_type
+  translation: Typ
+
+- id: date
+  translation: Datum
+
+- id: last_updated
+  translation: Senast uppdaterad
+
+- id: event
+  translation: Event
+
+- id: location
+  translation: Plats
+
+- id: pub_paper_conference
+  translation: Konferensbidrag
+
+- id: pub_article_journal
+  translation: Tidskriftsartikel
+
+- id: pub_article
+  translation: Manuscript
+
+- id: pub_report
+  translation: Rapport
+
+- id: pub_book
+  translation: Bok
+
+- id: pub_chapter
+  translation: Bok sektion
+
+- id: pub_thesis
+  translation: Avhandling
+
+- id: pub_patent
+  translation: Patent
+
+# Project details
+
+- id: open_project_site
+  translation: Gå till projektsidan
+
+# Content types for default archive page titles and search results
+
+- id: posts
+  translation: Inlägg
+
+- id: publications
+  translation: Publikationer
+
+- id: talks
+  translation: Föredrag
+
+- id: projects
+  translation: Projekt
+
+- id: slides
+  translation: Slides
+
+- id: authors
+  translation: Authors
+
+# Search
+
+- id: search
+  translation: Sök
+
+- id: search_placeholder
+  translation: Sök...
+
+- id: search_results
+  translation: hittade resultat
+
+- id: search_no_results
+  translation: Inga resultat funna
+
+- id: search_common_queries
+  translation: Common searches
+
+# Error 404
+
+- id: page_not_found
+  translation: Sidan hittas inte
+
+- id: 404_recommendations
+  translation: Kanske letade du efter en av dessa?
+
+# Cookie consent
+
+- id: cookie_message
+  translation: Denna webbplats använder kakor för att säkerställa att du får den bästa upplevelsen på vår webbplats.
+
+- id: cookie_dismiss
+  translation: Jag fattar!
+
+- id: cookie_learn
+  translation: Lär dig mer
+
+# Published with
+
+- id: published_with
+  translation: Published with {hugoblox} — the free, {repo_link}open source{/repo_link} website builder that empowers creators.
