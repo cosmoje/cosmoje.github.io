@@ -3,6 +3,44 @@
 @import "menu";
 @import "raditian";
 
+/* Fix paddings */
+// Add padding to the top of the main content to prevent overlap with the header
+.rad-showcase {
+    margin-top: 0px; /* Adjust the value as needed */
+}
+@media (min-width: 992px) {
+    .rad-showcase {
+        margin-top: 100px; /* Adjust the value as needed for wider screens */
+    }
+}
+
+// Add paddings to about section
+@media (min-width: 992px) {
+    section#about {
+        margin-top: 10px; /* Adjust as needed */
+        padding-top: 0px;
+        margin-bottom: 10px; /* Adjust as needed */
+        padding-bottom: 0px;
+      }
+}
+
+// Force the about section picture to have a max-height to prevent it from being super
+// tall on both wider and smaller screens
+@media (min-width: 992px) {
+    .about__profile-picture.col-12.col-md-6 {
+        max-height: 500px; /* Or any desired max-height */
+    }
+}
+.about__profile-picture.col-12.col-md-6 picture img {
+    max-height: 350px;
+}
+@media (min-width: 992px) {
+    .about__profile-picture.col-12.col-md-6 picture img {
+        max-height: 100%;
+      }
+}
+
+
 /** main style **/
 .header .navbar-brand span:first-child{
     color: #006845;
