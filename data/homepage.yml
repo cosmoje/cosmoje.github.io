@@ -4,20 +4,20 @@
 showcase:
   enable: true
   image:
-    x: "images/about/cosmo_thorax.jpg"
-    _2x: "images/about/cosmo_thorax.jpg"
+    x: "images/about/2025_utekläder_botby.JPG"
+    _2x: "images/about/2025_utekläder_botby.JPG"
   imageMobile:
-    x: "images/about/cosmo_thorax.jpg"
+    x: "images/about/2025_utekläder_botby.JPG"
 
   socialLinks:
     - icon: "linkedin"
       URL: "https://www.linkedin.com/in/cosmojenytin/"
 
     # - icon: "instagram"
-    #   URL: "https://www.instagram.com/zetxek/"
+    #   URL: "https://www.instagram.com/cosmo.jenytin/"
 
     # - icon: "square-facebook"
-    #   URL: "https://www.facebook.com/zetxek/"
+    #   URL: "https://www.facebook.com/cosmo.jenytin/"
 # about
 about:
   enable: true
@@ -25,8 +25,8 @@ about:
     icon: "icon-user"
     URL: "#about"
   image:
-    x: "images/about/cosmo_betonggarden.jpg"
-    _2x: "images/about/cosmo_betonggarden.jpg"
+    x: "images/about/2023_buenos_aires_opera.jpg"
+    _2x: "images/about/2023_buenos_aires_opera.jpg"
 
 # education
 education:
