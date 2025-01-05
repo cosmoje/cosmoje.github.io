@@ -6,9 +6,8 @@ pluralizeListTitles = false
 
 [params]
 
-  title = 'Adritian - a high performance hugo theme by Adrián Moreno'
-  description = 'This hugo theme (Adritian) is based on Bootstrap and has features that make it suitable for a personal site, a portfolio or other kind of Single Page Applications.'
-  images = ['/img/og-img.png']
+  title = 'Cosmo Jenytin – Espoon Vihreät'
+  description = 'Cosmo Jenytin – Vihreiden ehdokas kunnallisvaaleissa 2025 Espoon valtuustoon.'
   sections = ["showcase", "about", "contact"]
 
   homepageExperienceCount = 6
@@ -16,13 +15,6 @@ pluralizeListTitles = false
   # controls vercel page insights - disabled by default
   vercelPageInsights = false
   vercelAnalytics = false
-
-  [params.google_analytics]
-      code = "UA-XXXXX-Y"
-      enabled = false
-  [params.google_tag_manager]
-      code = "GTM-XXXXX"
-      enabled = false
 
 [build]
   [build.buildStats]
@@ -42,26 +34,6 @@ pluralizeListTitles = false
     languageName = 'Suomi'
     title = ''
     weight = 3
-    
-      [[languages.fi.menus.header]]
-        name = 'Cosmosta'
-        URL = '/about'
-        weight = 1
-      
-      [[languages.fi.menus.footer]]
-        name = 'Cosmosta'
-        URL = '/about'
-        weight = 1
-
-      [[languages.fi.menus.header]]
-        name = "Blogi"
-        URL = "/blog"
-        weight = 2
-
-      [[languages.fi.menus.footer]]
-        name = "Blogi"
-        URL = "/blog"
-        weight = 2
 
       [[languages.fi.menus.header]]
         name = "Ota yhteyttä"
@@ -80,27 +52,6 @@ pluralizeListTitles = false
     languageName = 'Svenska'
     title = ''
     weight = 3
-
-    [languages.sv.menus]
-      [[languages.sv.menus.header]]
-        name = 'Om Cosmo'
-        URL = 'sv/#about'
-        weight = 1
-
-      [[languages.sv.menus.footer]]
-        name = 'Om Cosmo'
-        URL = 'sv/#about'
-        weight = 1
-
-      [[languages.sv.menus.header]]
-        name = "Blogg"
-        URL = "sv/blog"
-        weight = 2
-
-      [[languages.sv.menus.footer]]
-        name = "Blogg"
-        URL = "sv/blog"
-        weight = 2
 
       [[languages.sv.menus.header]]
         name = "Ta kontakt"
