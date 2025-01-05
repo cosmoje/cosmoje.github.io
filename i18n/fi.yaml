@@ -11,21 +11,33 @@
 
 ## Homepage head title
 - id: "head_title"
-  translation: "Cosmo Jenytin – Vihreät"
+  translation: "Cosmo Jenytin – Espoon Vihreät"
 
 - id: "head_description"
-  translation: "Cosmo Jenytin, Vihreiden ehdokas kunnallisvaaleissa 2025 Espoon valtuustoon."
+  translation: "Cosmo Jenytin – Vihreiden ehdokas kunnallisvaaleissa 2025 Espoon valtuustoon."
 
 ## Homepage showcase
 - id: "showcase_title"
-  translation: "Cosmo Jenytin – hyvinvointia lyhyellä ja pitkällä tähtäimellä."
+  translation: "Cosmo Jenytin"
 
 - id: "showcase_subtitle"
-  translation: "Ehdolla Espoon kunnallisvaltuustoon 2025"
+  translation: "Diplomi-insinööri ja data scientist Tapiolasta."
 
 - id: "showcase_description"
-  translation: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam
-  auctor, nunc nec ultricies ultricies, nunc nisl tincidunt nunc, nec ultricies."
+  translation: <p class="lead">
+      Olen ehdolla kunnallisvaaleissa 2025, jotta päätökset tänään turvaavat
+      paremmat mahdollisuudet huomiselle.
+    </p>
+    <p class="lead">
+      Ilmastonmuutos on aikamme suuri tarina ja haaste, ja sen ratkaiseminen
+      alkaa ruohonjuuritasolta, omasta kunnasta. Olen myös vahvasti sitä
+      mieltä, että ilmastoteot voivat samalla olla avain entistä paremman
+      kaupunging rakentamiseen&#58; viihtyisämpään, terveellisempään ja
+      turvallisempaan lähiympäristöön.
+    </p>
+    <p class="lead">
+      Rakennetaan yhdessä kestävä ja hyvinvoiva Espoo – nyt ja tulevaisuudessa.
+    <p>
 
 - id: "showcase_button"
   translation: "Cosmosta"
@@ -36,18 +48,24 @@
 
 ## Homepage about
 - id: "about_title"
-  translation: "Kuka olen?"
+  translation: "Mitä ajan?"
 
 - id: "about_content"
   translation:  <p class="lead">
-      Tässä vähän tietoa minusta.
-      </p>
-      <p class="lead">
-      You explain something about your academic/study background, as well as your
-      preferred areas of work. Think of this area as context-setting for the experience
-      that you will describe below. Why did you change jobs? What drove you to take a 
-      new gig? Even if you are not looking for a job, it's a good way to hint about
-      what kind of projects you are interested in.
+      Lähinnä pyörää! Mutta sen lisäksi haluan Espoossa edistää&#58;
+    </p>
+    <p class="lead">
+      🚇 Parempaa liikkuvuutta&#58; kattavampaa ja joustavampaa joukkoliikennettä, parempia
+      kävely- ja pyöräilymahdollisuuksia, enemmän vaihtoehtoja yksityisautoilulle.
+    </p>
+    <p class="lead">
+      🏙️ Inhimillisempää kaupunkisuunnittelua&#58; yhteisöllisyyttä edistäviä
+      kaupunkialueita, joissa arjen tarpeet löytyvät kävely- tai pyöräilymatkan päästä.
+    </p>
+    <p class="lead">
+      🌱 Vihreää siirtymää&#58; panostamalla vihreään siirtymään ja koulutukseen voimme
+      luoda kestävämmän ja elinvoimaisemman kaupungin, samalla kun luomme uusia
+      työpaikkoja.
     </p>
 
 - id: "about_button"
