@@ -40,6 +40,19 @@
       }
 }
 
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&family=Montserrat:wght@400;700&display=swap');
+
+/* Set primary font for headlines and key texts */
+h1, h2, h3, h4, h5, h6, .display-1, .display-2, .display-3, .display-4, span {
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* Set secondary font for body text and subtexts */
+body, p, a, .lead, .text-muted, .section, .container {
+    font-family: 'Atkinson Hyperlegible', sans-serif;
+}
+
 
 /** main style **/
 .header .navbar-brand span:first-child{
@@ -137,7 +150,7 @@ p + p {
     margin-top: -12px;
 }
 .display-1 {
-    font-size: 36px;
+    font-size: 36px !important;
     font-weight: 800;
     line-height: normal;
     color: #000;
@@ -147,6 +160,16 @@ p + p {
         font-size: 60px;
     }
 }
+
+h1.display-1 > span {
+    font-size: 28px !important;
+}
+@media (min-width: 992px) {
+    h1.display-1 > span {
+        font-size: 45px;
+    }
+}
+
 p a,
 span a {
     color: #000;
