@@ -4,10 +4,10 @@
 showcase:
   enable: true
   image:
-    x: "images/about/2025_utekläder_botby.JPG"
-    _2x: "images/about/2025_utekläder_botby.JPG"
+    x: "images/showcase/showcase.jpg"
+    _2x: "images/showcase/showcase.jpg"
   imageMobile:
-    x: "images/about/2025_utekläder_botby.JPG"
+    x: "images/showcase/showcase.jpg"
 
   socialLinks:
     - icon: "linkedin"
@@ -25,8 +25,8 @@ about:
     icon: "icon-user"
     URL: "#about"
   image:
-    x: "images/about/2023_buenos_aires_opera.jpg"
-    _2x: "images/about/2023_buenos_aires_opera.jpg"
+    x: "images/about/about_landscape.jpg"
+    _2x: "images/about/about_landscape.jpg"
 
 # education
 education:
