@@ -40,19 +40,24 @@
       }
 }
 
+/* GENERAL */
 /* Import Google Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&family=Montserrat:wght@400;700&display=swap');
 
 /* Set primary font for headlines and key texts */
 h1, h2, h3, h4, h5, h6, .display-1, .display-2, .display-3, .display-4, span {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat', sans-serif !important;
 }
 
 /* Set secondary font for body text and subtexts */
 body, p, a, .lead, .text-muted, .section, .container {
-    font-family: 'Atkinson Hyperlegible', sans-serif;
+    font-family: 'Atkinson Hyperlegible', sans-serif !important;
 }
 
+/* Add gap between logo texts in the navbar-brand in the header */
+.header .navbar-brand {
+    gap: 8px;
+}
 
 /** main style **/
 .header .navbar-brand span:first-child{
