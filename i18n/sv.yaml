@@ -11,21 +11,32 @@
 
 ## Homepage head title
 - id: "head_title"
-  translation: "Cosmo Jenytin – De Gröna"
+  translation: "Cosmo Jenytin | Hem"
 
 - id: "head_description"
-  translation: "Cosmo Jenytin, kandidat för De Gröna i kommunalvalet 2025 till Esbo stadsfullmäktige."
+  translation: "Cosmo Jenytin – De Grönas kandidat i kommunalvalet 2025 till Esbo stadsfullmäktige."
 
 ## Homepage showcase
 - id: "showcase_title"
-  translation: "Cosmo Jenytin – välbefinnande på kort och lång sikt."
+  translation: "Cosmo Jenytin"
 
 - id: "showcase_subtitle"
-  translation: "Kandidat till Esbo stadsfullmäktige 2025"
+  translation: "Diplomingenjör och data scientist från Hagalund."
 
 - id: "showcase_description"
-  translation: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam
-  auctor, nunc nec ultricies ultricies, nunc nisl tincidunt nunc, nec ultricies."
+  translation: <p class="lead">
+      Jag ställer upp i kommunalvalet 2025 för att dagens beslut måste trygga
+      bättre möjligheter för morgondagen.
+    </p>
+    <p class="lead">
+      Klimatförändringen är vår tids stora berättelse och utmaning, och dess
+      lösning börjar på lokal nivå, i den egna kommunen. Jag anser också starkt
+      att klimatåtgärder samtidigt kan vara nyckeln till att bygga en ännu
+      bättre stad&#58; en trivsammare, hälsosammare och tryggare närmiljö.
+    </p>
+    <p class="lead">
+      Låt oss tillsammans bygga ett hållbart och välmående Esbo – nu och i framtiden.
+    </p>
 
 # - id: "showcase_button"
 #   translation: "Kontakta mig"
@@ -36,18 +47,20 @@
 
 ## Homepage about
 - id: "about_title"
-  translation: "Vem är jag?"
+  translation: "Vad driver jag?"
 
 - id: "about_content"
-  translation:  <p class="lead">
-      Här är lite information om mig.
-      </p>
-      <p class="lead">
-      Du förklarar något om din akademiska/studiebakgrund, samt dina
-      föredragna arbetsområden. Tänk på detta område som en kontext för den erfarenhet
-      som du kommer att beskriva nedan. Varför bytte du jobb? Vad drev dig att ta ett 
-      nytt jobb? Även om du inte letar efter ett jobb är det ett bra sätt att antyda om
-      vilka typer av projekt du är intresserad av.
+  translation: <p class="lead">
+      Oftast min cykel! Men utöver det vill jag i Esbo främja&#58;
+    </p>
+    <p class="lead">
+      🚇 Bättre rörlighet&#58; mer omfattande och flexiblare kollektivtrafik, bättre möjligheter för gång och cykel, fler alternativ till privatbilism.
+    </p>
+    <p class="lead">
+      🏠 Mer människovänlig stadsplanering&#58; stadsområden som främjar gemenskap, där vardagens behov finns inom gång- eller cykelavstånd.
+    </p>
+    <p class="lead">
+      🌱 En grön omställning&#58; genom att satsa på en grön omställning och utbildning kan vi skapa en mer hållbar och livskraftig stad, samtidigt som vi skapar nya arbetsplatser.
     </p>
 
 - id: "about_button"

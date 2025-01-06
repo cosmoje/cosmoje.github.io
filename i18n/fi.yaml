@@ -11,7 +11,7 @@
 
 ## Homepage head title
 - id: "head_title"
-  translation: "Cosmo Jenytin – Espoon Vihreät"
+  translation: "Cosmo Jenytin | Koti"
 
 - id: "head_description"
   translation: "Cosmo Jenytin – Vihreiden ehdokas kunnallisvaaleissa 2025 Espoon valtuustoon."
@@ -25,7 +25,7 @@
 
 - id: "showcase_description"
   translation: <p class="lead">
-      Olen ehdolla kunnallisvaaleissa 2025, jotta päätökset tänään turvaavat
+      Olen ehdolla kunnallisvaaleissa 2025, koska päätökset tänään turvaavat
       paremmat mahdollisuudet huomiselle.
     </p>
     <p class="lead">
@@ -59,7 +59,7 @@
       kävely- ja pyöräilymahdollisuuksia, enemmän vaihtoehtoja yksityisautoilulle.
     </p>
     <p class="lead">
-      🏙️ Inhimillisempää kaupunkisuunnittelua&#58; yhteisöllisyyttä edistäviä
+      🏠 Inhimillisempää kaupunkisuunnittelua&#58; yhteisöllisyyttä edistäviä
       kaupunkialueita, joissa arjen tarpeet löytyvät kävely- tai pyöräilymatkan päästä.
     </p>
     <p class="lead">
