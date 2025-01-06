@@ -135,3 +135,13 @@ theme = "light"
 ## the following parameter will disable theme override in the footer
 [params.colorTheme.selector.disable]
 footer = true
+
+# Automatic sitemap
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+
+# Google Analytics
+[services]
+  [services.googleAnalytics]
+    id = 'G-J5H6DRF4ZR'

@@ -3,10 +3,6 @@
 <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
 <meta name="theme-color" content="#006845"/>
 
-{{- if .Site.Params.analytics.google_tag_manager.enabled }}
-<link rel="preconnect" href="https://www.googletagmanager.com">
-{{- end }}
-<!-- endinject -->
 <title>{{ i18n "head_title" }}</title>
 <meta name="description" content='{{ i18n "head_description" }}'>
 <meta name="generator-mode" content='{{ hugo.Environment }}'>
@@ -72,14 +68,6 @@
 <!-- disabled color theme selector -->
 {{- end  }}
 
-{{- if .Site.Params.analytics.google_tag_manager.enabled }}
-<!-- Google tag (gtag.js), google analytics -->
-<script defer src="https://www.googletagmanager.com/gtag/js?id=UA-465407-4"></script>
-{{- $analytics := resources.Get "js/gtag.js" | resources.Minify }}
-<script defer src="{{ $analytics.Permalink }}"></script>
-{{- else }}
-<!-- no google tag displayed -->
-{{- end }}
 <script src='{{ "js/library/lozad.min.js" | absURL }}'></script>
 
 {{ template "_internal/opengraph.html" . }}
