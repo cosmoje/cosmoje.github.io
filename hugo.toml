@@ -1,0 +1,137 @@
+baseURL = "https://cosmojenytin.fi"
+languageCode = "fi"
+theme = "adritian"
+defaultContentLanguage = "fi"
+pluralizeListTitles = false
+
+[params]
+
+  title = 'Cosmo Jenytin – Espoon Vihreät'
+  description = 'Cosmo Jenytin – Vihreiden ehdokas kunnallisvaaleissa 2025 Espoon valtuustoon.'
+  sections = ["showcase", "about", "contact"]
+
+  homepageExperienceCount = 6
+
+  # controls vercel page insights - disabled by default
+  vercelPageInsights = false
+  vercelAnalytics = false
+
+[build]
+  [build.buildStats]
+    disableClasses = false
+    disableIDs = false
+    disableTags = false
+    enable = true
+
+[params.languages.selector.disable]
+  footer = false
+
+[languages]
+  [languages.fi]
+    disabled = false
+    languageCode = 'fi'
+    languageDirection = 'ltr'
+    languageName = 'Suomi'
+    title = ''
+    weight = 3
+
+      [[languages.fi.menus.header]]
+        name = "Ota yhteyttä"
+        URL = "#contact"
+        weight = 3
+      
+      [[languages.fi.menus.footer]]
+        name = "Ota yhteyttä"
+        URL = "#contact"
+        weight = 3
+
+  [languages.sv]
+    disabled = false
+    languageCode = 'sv'
+    languageDirection = 'ltr'
+    languageName = 'Svenska'
+    title = ''
+    weight = 3
+
+      [[languages.sv.menus.header]]
+        name = "Ta kontakt"
+        URL = "sv/#contact"
+        weight = 3
+
+      [[languages.sv.menus.footer]]
+        name = "Ta kontakt"
+        URL = "sv/#contact"
+        weight = 3
+  
+  [languages.en]
+    disabled = true
+    languageCode = 'en'
+    languageDirection = 'ltr'
+    languageName = 'English'
+    title = ''
+    weight = 1
+
+    [languages.en.menus]
+      [[languages.en.menus.header]]
+        name = 'About'
+        URL = 'en/#about'
+        weight = 1
+
+      [[languages.en.menus.footer]]
+        name = "About"
+        URL = "en/#about"
+        weight = 1
+
+      [[languages.en.menus.header]]
+        name = "Blog"
+        URL = "en/blog"
+        weight = 2
+
+      [[languages.en.menus.footer]]
+        name = "Blog"
+        URL = "en/blog"
+        weight = 2
+
+      [[languages.en.menus.header]]
+        name = "Contact"
+        URL = "en/#contact"
+        weight = 3
+
+      [[languages.en.menus.footer]]
+        name = "Contact"
+        URL = "en/#contact"
+        weight = 3
+
+# Plugins
+[params.plugins]
+
+  # CSS Plugins
+  [[params.plugins.css]]
+  URL = "css/custom.css"
+  [[params.plugins.css]]
+  URL = "css/adritian-icons.css"
+  
+  # JS Plugins
+  [[params.plugins.js]]
+  URL = "js/rad-animations.js"
+  [[params.plugins.js]]
+  URL = "js/sticky-header.js"
+  [[params.plugins.js]]
+  URL = "js/library/fontfaceobserver.js"
+
+  # SCSS Plugins
+  [[params.plugins.scss]]
+  URL = "scss/adritian.scss"
+
+# theme/color style 
+[params.colorTheme]
+
+## the following configuration would disable automatic theme selection
+[params.colorTheme.auto]
+disable = true
+[params.colorTheme.forced]
+theme = "light"
+
+## the following parameter will disable theme override in the footer
+[params.colorTheme.selector.disable]
+footer = true

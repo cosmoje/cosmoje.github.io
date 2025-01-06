@@ -1,0 +1,77 @@
+## Looking for strings? Check the i18n folder.
+
+# showcase
+showcase:
+  enable: true
+  image:
+    x: "images/about/2025_utekläder_botby.JPG"
+    _2x: "images/about/2025_utekläder_botby.JPG"
+  imageMobile:
+    x: "images/about/2025_utekläder_botby.JPG"
+
+  socialLinks:
+    - icon: "linkedin"
+      URL: "https://www.linkedin.com/in/cosmojenytin/"
+
+    # - icon: "instagram"
+    #   URL: "https://www.instagram.com/cosmo.jenytin/"
+
+    # - icon: "square-facebook"
+    #   URL: "https://www.facebook.com/cosmo.jenytin/"
+# about
+about:
+  enable: true
+  button:
+    icon: "icon-user"
+    URL: "#about"
+  image:
+    x: "images/about/2023_buenos_aires_opera.jpg"
+    _2x: "images/about/2023_buenos_aires_opera.jpg"
+
+# education
+education:
+  enable: true
+  title: "Education"
+  items:
+    - university: "Aalto-yliopisto"
+      year: "2014–2021"
+      degree: "..."
+
+    - university: "Mattlidens gymnasium"
+      year: "2010–2013"
+      degree: "..."
+
+# experience
+## to hiden a button, set the icon to an empty string
+experience:
+  enable: false
+  button:
+    icon: "icon-linkedin"
+  button2:
+    icon: "icon-file-pdf"
+  button3:
+    icon: "icon-cloud-arrow-down"
+
+# Client & Work
+client_and_work:
+  enable: false
+
+# testimonial
+testimonial:
+  enable: false
+
+# contact
+contact:
+  enable: true
+  title: "Contact"
+  form:
+    action: "https://formspree.io/f/xgvvpozp"
+    method: "POST"
+
+  button:
+    icon: "icon-email"
+    btnText: "Send Message"
+
+# newsletter
+newsletter:
+  enable: false

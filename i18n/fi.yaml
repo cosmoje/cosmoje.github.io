@@ -1,0 +1,440 @@
+## Header
+- id: "logo_text1"
+  translation: "Cosmo"
+
+- id: "logo_text2"
+  translation: "Jenytin"
+
+## Footer
+- id: "language"
+  translation: "Kieli"
+
+## Homepage head title
+- id: "head_title"
+  translation: "Cosmo Jenytin | Koti"
+
+- id: "head_description"
+  translation: "Cosmo Jenytin – Vihreiden ehdokas kunnallisvaaleissa 2025 Espoon valtuustoon."
+
+## Homepage showcase
+- id: "showcase_title"
+  translation: "Cosmo Jenytin"
+
+- id: "showcase_subtitle"
+  translation: "Diplomi-insinööri ja data scientist Tapiolasta."
+
+- id: "showcase_description"
+  translation: <p class="lead">
+      Olen ehdolla kunnallisvaaleissa 2025, koska päätökset tänään turvaavat
+      paremmat mahdollisuudet huomiselle.
+    </p>
+    <p class="lead">
+      Ilmastonmuutos on aikamme suuri tarina ja haaste, ja sen ratkaiseminen
+      alkaa ruohonjuuritasolta, omasta kunnasta. Olen myös vahvasti sitä
+      mieltä, että ilmastoteot voivat samalla olla avain entistä paremman
+      kaupunging rakentamiseen&#58; viihtyisämpään, terveellisempään ja
+      turvallisempaan lähiympäristöön.
+    </p>
+    <p class="lead">
+      Rakennetaan yhdessä kestävä ja hyvinvoiva Espoo – nyt ja tulevaisuudessa.
+    <p>
+
+- id: "showcase_button"
+  translation: "Cosmosta"
+
+  ## not visible but used for accessibility
+- id: "showcase_image_alt"
+  translation: "Kuva Cosmo Jenytitinistä"
+
+## Homepage about
+- id: "about_title"
+  translation: "Mitä ajan?"
+
+- id: "about_content"
+  translation:  <p class="lead">
+      Lähinnä pyörää! Mutta sen lisäksi haluan Espoossa edistää&#58;
+    </p>
+    <p class="lead">
+      🚇 Parempaa liikkuvuutta&#58; kattavampaa ja joustavampaa joukkoliikennettä, parempia
+      kävely- ja pyöräilymahdollisuuksia, enemmän vaihtoehtoja yksityisautoilulle.
+    </p>
+    <p class="lead">
+      🏠 Inhimillisempää kaupunkisuunnittelua&#58; yhteisöllisyyttä edistäviä
+      kaupunkialueita, joissa arjen tarpeet löytyvät kävely- tai pyöräilymatkan päästä.
+    </p>
+    <p class="lead">
+      🌱 Vihreää siirtymää&#58; panostamalla vihreään siirtymään ja koulutukseen voimme
+      luoda kestävämmän ja elinvoimaisemman kaupungin, samalla kun luomme uusia
+      työpaikkoja.
+    </p>
+
+- id: "about_button"
+  translation: "Cosmosta"
+
+# ## Homepage experience
+# - id: "experience_title"
+#   translation: "Kokemus"
+
+# - id: "experience_description"
+#   translation: "This is where you can highlight a bit over your experience. Years of total experience, specialization, etc."
+
+# - id: "experience_button"
+#   translation: "LinkedIn" 
+
+# - id: "experience_button_url"
+#   translation: "https://www.linkedin.com/in/cosmojenytin/"
+
+# - id: "experience_button2"
+#   translation: "Download resume"
+
+# - id: "experience_button2_url"
+#   translation: "/img/general/user-smile-fill.svg"
+
+# - id: "experience_button3"
+#   translation: "Näytä koko CV"
+
+# - id: "experience_button3_url"
+#   translation: "/kokemus"
+
+# ## Homepage client & work
+# - id: "client_work_title"
+#   translation: "Clients & Work"
+
+# ## Homepage newsletter
+# - id: "newsletter_title"
+#   translation: "Newsletter"
+
+# - id: "newsletter_button"
+#   translation: "Subscribe"
+
+# - id: "newsletter_placeholder"
+#   translation: "Your email"
+
+# - id: "newsletter_success_message"
+#   translation: "Thank you for subscribing to my newsletter!"
+
+# - id: "newsletter_error_message"
+#   translation: "An error occurred. Please try again."
+
+# - id: "newsletter_note"
+#   translation: "We'll never share your email with anyone else."
+
+# ## Homepage testimonials
+# - id: "testimonials_title"
+#   translation: "Testimonials"
+
+## Homepage contact
+- id: "contact_title"
+  translation: "Ota yhteyttä"
+
+- id: "contact_button"
+  translation: "Lähetä viesti"
+
+- id: "contact_form_name"
+  translation: "Koko nimi"
+
+- id: "contact_form_email"
+  translation: "Sähköpostiosoite"
+
+- id: "contact_form_message"
+  translation: "Kirjoita viestisi tähän"
+
+# - id: "contact_phone_title"
+#   translation: "Puhelinnumero"
+
+# - id: "contact_phone_number"
+#   translation: "+358 123 456 789"
+
+- id: "contact_email_title"
+  translation: "Sähköposti"
+
+- id: "contact_email_email"
+  translation: '<a href="mailto:cosmo@cosmojenytin.fi">cosmo@cosmojenytin.fi</a>'
+
+- id: "contact_button"
+  translation: "Lähetä viesti"
+
+## Blog
+- id: "read_more"
+  translation: "Lue lisää"
+
+- id: "published_on"
+  translation: "Julkaistu"
+
+- id: "continue_reading"
+  translation: "Jatka lukemista"
+
+- id: "blog"
+  translation: Blogi
+
+- id: "blog_page_title"
+  translation: Blogi
+
+## Education
+- id: "education_title"
+  translation: "Koulutus"
+
+
+
+# Everything below from: https://github.com/HugoBlox/hugo-blox-builder/blob/main/modules/blox-tailwind/i18n/fi.yaml
+
+# Navigation
+
+- id: toggle_navigation
+  translation: Navigointi
+
+- id: table_of_contents
+  translation: Sisällys
+
+- id: on_this_page
+  translation: Sisältö
+
+- id: back_to_top
+  translation: Takaisin ylös
+
+- id: home
+  translation: Etusivu
+
+- id: close
+  translation: Sulje
+
+- id: languages
+  translation: Kielet
+
+# General
+
+- id: related
+  translation: Aiheeseen liittyvät
+
+- id: minute_read
+  translation: min (lukuaika)
+
+- id: previous
+  translation: Edellinen
+
+- id: next
+  translation: Seuraava
+
+- id: figure
+  translation: 'Kuvio %d:'
+
+- id: edit_page
+  translation: Muokkaa sivua
+
+# Themes
+
+- id: theme_selector
+  translation: Valitse teema
+
+- id: theme_light
+  translation: Vaalea
+
+- id: theme_dark
+  translation: Tumma
+
+- id: theme_auto
+  translation: Automaattinen
+
+# Buttons
+
+- id: btn_preprint
+  translation: Preprint
+
+- id: btn_pdf
+  translation: PDF
+
+- id: btn_cite
+  translation: Siteeraa
+
+- id: btn_slides
+  translation: Diaesitykset
+
+- id: btn_video
+  translation: Video
+
+- id: btn_code
+  translation: Koodi
+
+- id: btn_dataset
+  translation: Tietojoukot
+
+- id: btn_project
+  translation: Projekti
+
+- id: btn_poster
+  translation: Juliste
+
+- id: btn_source
+  translation: Lähdeasiakirja
+
+- id: btn_copy
+  translation: Kopioi
+
+- id: btn_copied
+  translation: Copied
+
+- id: btn_download
+  translation: Lataa
+
+# About widget
+
+- id: interests
+  translation: Kiinnostukset
+
+- id: education
+  translation: Koulutus
+
+- id: user_profile_latest
+  translation: Viimeisin
+
+# Accomplishments widget
+
+- id: see_certificate
+  translation: Katso todistus
+
+# Experience widget
+
+- id: present
+  translation: Nykyinen
+
+# Pages widget
+
+- id: more_pages
+  translation: Katso kaikki
+
+- id: more_posts
+  translation: Kaikki blogitekstit
+
+- id: more_talks
+  translation: Katso kaikki esitelmät
+
+- id: more_publications
+  translation: Katso kaikki julkaisut
+
+# Contact widget
+
+- id: contact_name
+  translation: Nimi
+
+- id: contact_email
+  translation: Sähköposti
+
+- id: contact_message
+  translation: Viesti
+
+- id: contact_attachment
+  translation: Attach file
+
+- id: contact_send
+  translation: Lähetä
+
+- id: book_appointment
+  translation: Sovi tapaaminen
+
+# Publication/Event details
+
+- id: abstract
+  translation: Abstrakti
+
+- id: publication
+  translation: Julkaisu
+
+- id: publication_type
+  translation: Tyyppi
+
+- id: date
+  translation: Päivämäärä
+
+- id: last_updated
+  translation: Viimeksi päivitetty
+
+- id: event
+  translation: Tapahtuma
+
+- id: location
+  translation: Sijainti
+
+- id: pub_paper_conference
+  translation: Konferenssijulkaisu
+
+- id: pub_article_journal
+  translation: Artikkeli
+
+- id: pub_article
+  translation: Preprint
+
+- id: pub_report
+  translation: Raportti
+
+- id: pub_book
+  translation: Kirja
+
+- id: pub_chapter
+  translation: Kirjan kohta
+
+- id: pub_thesis
+  translation: Opinnäyte
+
+- id: pub_patent
+  translation: Patentti
+
+# Project details
+
+- id: open_project_site
+  translation: Siirry projektisivulle
+
+# Content types for default archive page titles and search results
+
+- id: posts
+  translation: Blogitekstit
+
+- id: publications
+  translation: Julkaisut
+
+- id: talks
+  translation: Esitelmät
+
+- id: projects
+  translation: Projektit
+
+- id: slides
+  translation: Diaesitykset
+
+- id: authors
+  translation: Kirjoittajat
+
+# Search
+
+- id: search
+  translation: Etsi
+
+- id: search_placeholder
+  translation: Etsi...
+
+- id: search_results
+  translation: tulosta löydetty
+
+- id: search_no_results
+  translation: Ei tuloksia
+
+- id: search_common_queries
+  translation: Yleiset haut
+
+# Error 404
+
+- id: page_not_found
+  translation: Sivua ei löydetty
+
+- id: 404_recommendations
+  translation: Ehkä etsit jotain näistä?
+
+# Cookie consent
+
+- id: cookie_message
+  translation: Tämä verkkosivusto käyttää evästeitä varmistaakseen, että saat parhaan käyttökokemuksen verkkosivustollamme.
+
+- id: cookie_dismiss
+  translation: Hyväksytty
+
+- id: cookie_learn
+  translation: Lisätietoja

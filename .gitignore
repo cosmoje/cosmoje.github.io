@@ -1,0 +1,17 @@
+# Node
+node_modules/
+
+# Hugo generated content
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+hugo_stats.json
+.hugo_build.lock
+
+# Hugo executable files
+hugo.exe
+hugo.darwin
+hugo.linux
+
+# Temporary files
+.hugo_build.lock
