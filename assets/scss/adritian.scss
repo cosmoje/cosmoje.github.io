@@ -3,23 +3,51 @@
 @import "menu";
 @import "raditian";
 
-/* Fix paddings */
-// Add padding to the top of the main content to prevent overlap with the header
-.rad-showcase {
-    margin-top: 0px; /* Adjust the value as needed */
+/* SHOWCASE */
+// Remove padding above photo in showcase section on non-wide screens, add padding below
+.profile-image {
+    margin-top: -60px;
+    padding-top: 0px;
+    margin-bottom: 30px;
 }
+// Add padding to the top of the main content to prevent overlap with the header on
+// wider screens
 @media (min-width: 992px) {
     .rad-showcase {
-        margin-top: 100px; /* Adjust the value as needed for wider screens */
+        margin-top: 0px; /* Adjust the value as needed for wider screens */
+        padding-top: 0px;
+    }
+}
+// Add padding to the bottom of the showcase
+section#showcase {
+    margin-bottom: 10px;
+}
+
+// Force the showcase section picture to have a max-height to prevent it from being too
+// tall on wider screens
+@media (min-width: 992px) {
+    .profile-image {
+        max-height: 550px;
+    }
+    .profile-image img {
+        max-height: 100%;
+        width: auto;
     }
 }
 
+/* ABOUT */
 // Add paddings to about section
+section#about {
+    margin-top: 20px;
+    padding-top: 0px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
 @media (min-width: 992px) {
     section#about {
-        margin-top: 10px; /* Adjust as needed */
+        margin-top: 0px; /* Adjust as needed */
         padding-top: 0px;
-        margin-bottom: 10px; /* Adjust as needed */
+        margin-bottom: 0px; /* Adjust as needed */
         padding-bottom: 0px;
       }
 }
@@ -40,19 +68,24 @@
       }
 }
 
+/* GENERAL */
 /* Import Google Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&family=Montserrat:wght@400;700&display=swap');
 
 /* Set primary font for headlines and key texts */
 h1, h2, h3, h4, h5, h6, .display-1, .display-2, .display-3, .display-4, span {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat', sans-serif !important;
 }
 
 /* Set secondary font for body text and subtexts */
 body, p, a, .lead, .text-muted, .section, .container {
-    font-family: 'Atkinson Hyperlegible', sans-serif;
+    font-family: 'Atkinson Hyperlegible', sans-serif !important;
 }
 
+/* Add gap between logo texts in the navbar-brand in the header */
+.header .navbar-brand {
+    gap: 8px;
+}
 
 /** main style **/
 .header .navbar-brand span:first-child{
