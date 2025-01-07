@@ -45,7 +45,7 @@
 
   ## not visible but used for accessibility
 - id: "showcase_image_alt"
-  translation: "Kuva Cosmo Jenytitinistä"
+  translation: "Cosmo Jenytin Vihreät kuntavaaliehdokas 2025 ulkona"
 
 ## Homepage about
 - id: "about_title"
@@ -71,6 +71,9 @@
 
 - id: "about_button"
   translation: "Cosmosta"
+
+- id: "about_image_alt"
+  translation: "Cosmo Jenytin Vihreät kuntavaaliehdokas 2025 sisällä"
 
 # ## Homepage experience
 # - id: "experience_title"

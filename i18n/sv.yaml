@@ -44,7 +44,7 @@
 
   ## not visible but used for accessibility
 - id: "showcase_image_alt"
-  translation: "Bild av Cosmo Jenytin"
+  translation: "Cosmo Jenytin De Gröna kommunalvalskandidat 2025 utomhus"
 
 ## Homepage about
 - id: "about_title"
@@ -66,6 +66,9 @@
 
 - id: "about_button"
   translation: "Om Cosmo"
+
+- id: "about_image_alt"
+  translation: "Cosmo Jenytin De Gröna kommunalvalskandidat 2025 inomhus"
 
 # ## Homepage experience
 # - id: "experience_title"
