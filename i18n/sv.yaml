@@ -21,7 +21,7 @@
   translation: "Cosmo Jenytin"
 
 - id: "showcase_subtitle"
-  translation: "Diplomingenjör och data scientist från Hagalund."
+  translation: "Diplomingenjör och Data Scientist från Hagalund."
 
 - id: "showcase_description"
   translation: <p class="lead">
@@ -33,6 +33,7 @@
       lösning börjar på lokal nivå, i den egna kommunen. Jag anser också starkt
       att klimatåtgärder samtidigt kan vara nyckeln till att bygga en ännu
       bättre stad&#58; en trivsammare, hälsosammare och tryggare närmiljö.
+      Därför var också De Gröna ett naturligt val för mig.
     </p>
     <p class="lead">
       Låt oss tillsammans bygga ett hållbart och välmående Esbo – nu och i framtiden.
@@ -43,7 +44,7 @@
 
   ## not visible but used for accessibility
 - id: "showcase_image_alt"
-  translation: "Bild av Cosmo Jenytin"
+  translation: "Cosmo Jenytin De Gröna kommunalvalskandidat 2025 utomhus"
 
 ## Homepage about
 - id: "about_title"
@@ -65,6 +66,9 @@
 
 - id: "about_button"
   translation: "Om Cosmo"
+
+- id: "about_image_alt"
+  translation: "Cosmo Jenytin De Gröna kommunalvalskandidat 2025 inomhus"
 
 # ## Homepage experience
 # - id: "experience_title"

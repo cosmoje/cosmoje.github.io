@@ -21,7 +21,7 @@
   translation: "Cosmo Jenytin"
 
 - id: "showcase_subtitle"
-  translation: "Diplomi-insinööri ja data scientist Tapiolasta."
+  translation: "Diplomi-insinööri ja Data Scientist Tapiolasta."
 
 - id: "showcase_description"
   translation: <p class="lead">
@@ -33,7 +33,8 @@
       alkaa ruohonjuuritasolta, omasta kunnasta. Olen myös vahvasti sitä
       mieltä, että ilmastoteot voivat samalla olla avain entistä paremman
       kaupungin rakentamiseen&#58; viihtyisämpään, terveellisempään ja
-      turvallisempaan lähiympäristöön.
+      turvallisempaan lähiympäristöön. Siksi myös Vihreät oli minulle luonteva
+      valinta.
     </p>
     <p class="lead">
       Rakennetaan yhdessä kestävä ja hyvinvoiva Espoo – nyt ja tulevaisuudessa.
@@ -44,7 +45,7 @@
 
   ## not visible but used for accessibility
 - id: "showcase_image_alt"
-  translation: "Kuva Cosmo Jenytitinistä"
+  translation: "Cosmo Jenytin Vihreät kuntavaaliehdokas 2025 ulkona"
 
 ## Homepage about
 - id: "about_title"
@@ -70,6 +71,9 @@
 
 - id: "about_button"
   translation: "Cosmosta"
+
+- id: "about_image_alt"
+  translation: "Cosmo Jenytin Vihreät kuntavaaliehdokas 2025 sisällä"
 
 # ## Homepage experience
 # - id: "experience_title"
