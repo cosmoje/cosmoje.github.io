@@ -145,3 +145,7 @@ footer = true
 [services]
   [services.googleAnalytics]
     id = 'G-J5H6DRF4ZR'
+
+[privacy]
+  [privacy.googleAnalytics]
+    respectDoNotTrack = true
