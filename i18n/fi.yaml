@@ -178,6 +178,10 @@
 - id: "education_title"
   translation: "Koulutus"
 
+## General
+- id: "wordcount_words"
+  translation: "sanaa"
+
 
 
 # Everything below from: https://github.com/HugoBlox/hugo-blox-builder/blob/main/modules/blox-tailwind/i18n/fi.yaml

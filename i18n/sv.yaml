@@ -178,6 +178,9 @@
 - id: "sv"
   translation: "Svenska"
 
+## General
+- id: "wordcount_words"
+  translation: "ord"
 
 # Everything below from: https://github.com/HugoBlox/hugo-blox-builder/blob/main/modules/blox-tailwind/i18n/sv.yaml
 
