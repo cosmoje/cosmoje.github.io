@@ -44,13 +44,13 @@ education:
 # experience
 ## to hiden a button, set the icon to an empty string
 experience:
-  enable: false
+  enable: true
   button:
-    icon: "icon-linkedin"
+    icon: ""
   button2:
-    icon: "icon-file-pdf"
+    icon: ""
   button3:
-    icon: "icon-cloud-arrow-down"
+    icon: ""
 
 # Client & Work
 client_and_work:
