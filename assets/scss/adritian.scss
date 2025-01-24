@@ -68,6 +68,20 @@ section#about {
       }
 }
 
+/* THEMES */
+.experience a:active{
+    display: block;
+    background-color: #284734 !important;
+}
+// Theme description text in summary
+.experience__company {
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 1.2;
+    letter-spacing: -0px;
+    color: #000;
+}
+
 /* GENERAL */
 /* Import Google Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&family=Montserrat:wght@400;700&display=swap');
