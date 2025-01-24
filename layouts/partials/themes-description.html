@@ -1,0 +1,21 @@
+<div class="container-experience">
+  <div class="row">
+    <h2>{{ i18n "experience_title" }}</h2>
+    <p class="lead">{{ i18n "experience_description" | safeHTML }}</p>
+  </div>
+  {{ if ne .Page.Section "themes" }}
+  <div class="row">
+    <div class="col-12">
+      <a
+        href="{{ i18n "experience_button_url" | absURL }}"
+        class="btn btn-primary btn-block w-100"
+        rel="noopener noreferrer"
+      >
+        <i class="{{ .Site.Data.homepage.experience.button.icon }}"></i>
+        {{ i18n "experience_button" }}
+        <i class="icon-arrow-right"></i
+      ></a>
+    </div>
+  </div>
+  {{ end }}
+</div>
