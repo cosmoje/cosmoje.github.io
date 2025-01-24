@@ -29,11 +29,15 @@
       bättre möjligheter för morgondagen.
     </p>
     <p class="lead">
-      Klimatförändringen är vår tids stora berättelse och utmaning, och dess
-      lösning börjar på lokal nivå, i den egna kommunen. Jag anser också starkt
-      att klimatåtgärder samtidigt kan vara nyckeln till att bygga en ännu
-      bättre stad&#58; en trivsammare, hälsosammare och tryggare närmiljö.
-      Därför var också De Gröna ett naturligt val för mig.
+      Klimatförändringen är vår tids största utmaning, men att ta itu med den
+      innebär också en enorm möjlighet&#58; vi kan bygga en stad som är
+      trivsammare, säkrare och bättre att leva i.
+    </p>
+    <p class="lead">
+      Jag vill att Esbo ska vara en stad där klimatåtgärderna förbättrar
+      livskvaliteten för invånarna. En stad där det är lätt att röra sig och
+      där boendekostnader är rimliga. En stad där hållbara val är attraktiva
+      och tillgängliga för alla – oavsett inkomstnivå eller stadsdel.
     </p>
     <p class="lead">
       Låt oss tillsammans bygga ett hållbart och välmående Esbo – nu och i framtiden.
@@ -44,31 +48,45 @@
 
   ## not visible but used for accessibility
 - id: "showcase_image_alt"
-  translation: "Cosmo Jenytin De Gröna kommunalvalskandidat 2025 utomhus"
+  translation: "Cosmo Jenytin De Gröna Esbo kommunalvalskandidat 2025 utomhus"
 
 ## Homepage about
 - id: "about_title"
-  translation: "Vad driver jag?"
+  translation: "Vem Cosmo?"
 
 - id: "about_content"
-  translation: <p class="lead">
-      Oftast min cykel! Men utöver det vill jag i Esbo främja&#58;
-    </p>
-    <p class="lead">
-      🚇 Bättre rörlighet&#58; mer omfattande och flexiblare kollektivtrafik, bättre möjligheter för gång och cykel, fler alternativ till privatbilism.
-    </p>
-    <p class="lead">
-      🏠 Mer människovänlig stadsplanering&#58; stadsområden som främjar gemenskap, där vardagens behov finns inom gång- eller cykelavstånd.
-    </p>
-    <p class="lead">
-      🌱 En grön omställning&#58; genom att satsa på en grön omställning och utbildning kan vi skapa en mer hållbar och livskraftig stad, samtidigt som vi skapar nya arbetsplatser.
-    </p>
+  translation: <ul>
+      <li>
+        <p class="lead"><span class="fw-bold">Diplomingenjör och Data
+        Scientist</span>, med förmåga att förstå komplexa problem och utveckla
+        fungerande lösningar. Jag strävar alltid efter att se helheten och kan
+        förena olika perspektiv till praktiska lösningar.</p>
+      </li>
+      <li>
+        <p class="lead"><span class="fw-bold">Lever efter mina
+        värderingar&#58;</span> Att cykla, promenera och använda
+        kollektivtrafik, vegansk mat och hållbar konsumtion är klimathandlingar
+        i min vardag.</p>
+      </li>
+      <li>
+        <p class="lead"><span class="fw-bold">Livslång Esbobo&#58;</span> Född
+        och uppvuxen i Esbo och har levt i staden hela livet. Älskar staden och
+        känner dess utmaningar och möjligheter.</p>
+      </li>
+      <li>
+        <p class="lead"><span class="fw-bold">Samhällsaktiv&#58;</span>
+        Engagerad i diverse föreningar vid Aalto-universitetet och i Akademiska
+        Sångföreningen. Som tvåspråkig kandidat förstår jag den särskilda
+        vikten som måste läggas vid att bevara den finlandssvenska kulturen och
+        servicen.</p>
+      </li>
+    </ul>
 
 - id: "about_button"
   translation: "Om Cosmo"
 
 - id: "about_image_alt"
-  translation: "Cosmo Jenytin De Gröna kommunalvalskandidat 2025 inomhus"
+  translation: "Cosmo Jenytin De Gröna Esbo kommunalvalskandidat 2025 inomhus"
 
 ## Homepage experience
 - id: "experience_title"

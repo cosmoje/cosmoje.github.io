@@ -29,51 +29,62 @@
       paremmat mahdollisuudet huomiselle.
     </p>
     <p class="lead">
-      Ilmastonmuutos on aikamme suuri tarina ja haaste, ja sen ratkaiseminen
-      alkaa ruohonjuuritasolta, omasta kunnasta. Olen myös vahvasti sitä
-      mieltä, että ilmastoteot voivat samalla olla avain entistä paremman
-      kaupungin rakentamiseen&#58; viihtyisämpään, terveellisempään ja
-      turvallisempaan lähiympäristöön. Siksi myös Vihreät oli minulle luonteva
-      valinta.
+      Ilmastonmuutos on aikamme suurin haaste, mutta sen ratkominen tarjoaa
+      myös valtavan mahdollisuuden&#58; voimme samalla rakentaa kaupunkia, joka
+      on viihtyisämpi, turvallisempi ja parempi paikka asua.
+    </p>
+    <p class="lead">
+      Haluan Espoosta kaupungin, jossa ilmastotoimet lisäävät asukkaiden
+      elämänlaatua. Kaupungin, jossa liikkuminen on helppoa ja asuminen
+      kohtuuhintaista. Kaupungin, jossa kestävät valinnat ovat houkuttelevia ja
+      saavutettavia kaikille – tulotasosta tai asuinpaikasta riippumatta.
     </p>
     <p class="lead">
       Rakennetaan yhdessä kestävä ja hyvinvoiva Espoo – nyt ja tulevaisuudessa.
-    <p>
+    </p>
 
 - id: "showcase_button"
   translation: "Cosmosta"
 
   ## not visible but used for accessibility
 - id: "showcase_image_alt"
-  translation: "Cosmo Jenytin Vihreät kuntavaaliehdokas 2025 ulkona"
+  translation: "Cosmo Jenytin Vihreät Espoo kuntavaaliehdokas 2025 ulkona"
 
 ## Homepage about
 - id: "about_title"
-  translation: "Mitä ajan?"
+  translation: "Kuka Cosmo?"
 
 - id: "about_content"
-  translation:  <p class="lead">
-      Lähinnä pyörää! Mutta sen lisäksi haluan Espoossa edistää&#58;
-    </p>
-    <p class="lead">
-      🚇 Parempaa liikkuvuutta&#58; kattavampaa ja joustavampaa joukkoliikennettä, parempia
-      kävely- ja pyöräilymahdollisuuksia, enemmän vaihtoehtoja yksityisautoilulle.
-    </p>
-    <p class="lead">
-      🏠 Inhimillisempää kaupunkisuunnittelua&#58; yhteisöllisyyttä edistäviä
-      kaupunkialueita, joissa arjen tarpeet löytyvät kävely- tai pyöräilymatkan päästä.
-    </p>
-    <p class="lead">
-      🌱 Vihreää siirtymää&#58; panostamalla vihreään siirtymään ja koulutukseen voimme
-      luoda kestävämmän ja elinvoimaisemman kaupungin, samalla kun luomme uusia
-      työpaikkoja.
-    </p>
+  translation: <ul>
+      <li>
+        <p class="lead"><span class="fw-bold">Diplomi-insinööri ja Data
+        Scientist</span>, jolla kykyä ymmärtää monimutkaisia ongelmia ja
+        kehittää toimivia ratkaisuja. Pyrin aina näkemään ison kuvan ja osaan
+        yhdistää eri näkökulmia käytännön ratkaisuiksi.</p>
+      </li>
+      <li>
+        <p class="lead"><span class="fw-bold">Elän arvojeni mukaan&#58;</span>
+        Pyöräily ja kävely, vegaaniruoan suosiminen sekä kestävä kulutus ovat
+        ilmastotekoja arjessani.</p>
+      </li>
+      <li>
+        <p class="lead"><span class="fw-bold">Paljasjalkainen
+        espoolainen&#58;</span> Olen syntynyt ja asunut koko elämäni Espoossa.
+        Rakastan kaupunkiamme, ja tunnen sen haasteet ja mahdollisuudet.</p>
+      </li>
+      <li>
+        <p class="lead"><span class="fw-bold">Yhteisöaktiivi&#58;</span> Olen
+        mukana monessa, sekä Aalto-yliopiston yhteisöissä että kuorossa.
+        Kaksikielisenä ehdokkaana rakennan siltoja erikulttuurien ja
+        kieliryhmien välillä myös arjessa.</p>
+      </li>
+    </ul>
 
 - id: "about_button"
   translation: "Cosmosta"
 
 - id: "about_image_alt"
-  translation: "Cosmo Jenytin Vihreät kuntavaaliehdokas 2025 sisällä"
+  translation: "Cosmo Jenytin Vihreät Espoo kuntavaaliehdokas 2025 sisällä"
 
 ## Homepage experience
 - id: "experience_title"
