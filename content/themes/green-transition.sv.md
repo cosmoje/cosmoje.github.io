@@ -1,7 +1,7 @@
 ---
 slug: 'gron-omstallning' # Add a localized slug
 date: '2025-01-01T00:00:00+02:00' # ordering is in reverse date order
-draft: true
+draft: false
 title: 'Grön omställning'
 description: '' # meta description for SEO
 jobTitle: "Grön omställning"
