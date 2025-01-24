@@ -75,18 +75,29 @@
 - id: "about_image_alt"
   translation: "Cosmo Jenytin Vihreät kuntavaaliehdokas 2025 sisällä"
 
-# ## Homepage experience
-# - id: "experience_title"
-#   translation: "Kokemus"
+## Homepage experience
+- id: "experience_title"
+  translation: "Mitä ajan?"
 
-# - id: "experience_description"
-#   translation: "This is where you can highlight a bit over your experience. Years of total experience, specialization, etc."
+- id: "experience_description"
+  translation: <p class="lead">
+      Lähinnä pyörää! Mutta sen lisäksi haluan rakentaa Espoosta kaupungin,
+      jossa ilmastotoimet lisäävät asukkaiden elämänlaatua. Kaupungin, jossa
+      liikkuminen on helppoa ja asuminen kohtuuhintaista. Kaupungin, jossa
+      kestävät valinnat ovat houkuttelevia ja saavutettavia kaikille –
+      tulotasosta tai asuinpaikasta riippumatta.
+    </p>
+    <p class="lead">
+      Tämä vaatii konkreettisia tekoja, aina liikenteen ja rakentamisen
+      parantamisesta koulutukseen satsaamiseen. Uskon vilpittömästi, että
+      tulevaisuus voi olla entistä kirkkaampi, ja olen valmis tekemään töitä
+      tämän saavuttamiseksi. Lue lisää teemoistani klikkaamalla!
+    </p>
 
-# - id: "experience_button"
-#   translation: "LinkedIn" 
-
-# - id: "experience_button_url"
-#   translation: "https://www.linkedin.com/in/cosmojenytin/"
+- id: "experience_button"
+  translation: "Lisää minulle tärkeistä asioista" 
+- id: "experience_button_url"
+  translation: "/themes"
 
 # - id: "experience_button2"
 #   translation: "Download resume"
@@ -95,10 +106,15 @@
 #   translation: "/img/general/user-smile-fill.svg"
 
 # - id: "experience_button3"
-#   translation: "Näytä koko CV"
+#   translation: "Lisää minulle tärkeistä teemoista"
 
 # - id: "experience_button3_url"
-#   translation: "/kokemus"
+#   translation: "/themes"
+
+## Themes
+- id: "themes"
+  translation: "Teemat"
+
 
 # ## Homepage client & work
 # - id: "client_work_title"

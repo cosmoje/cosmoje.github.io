@@ -70,18 +70,28 @@
 - id: "about_image_alt"
   translation: "Cosmo Jenytin De Gröna kommunalvalskandidat 2025 inomhus"
 
-# ## Homepage experience
-# - id: "experience_title"
-#   translation: "Erfarenhet"
+## Homepage experience
+- id: "experience_title"
+  translation: "Vilka frågor driver jag?"
 
-# - id: "experience_description"
-#   translation: "Här kan du lyfta fram lite av din erfarenhet. Totala år av erfarenhet, specialisering, etc."
+- id: "experience_description"
+  translation: <p class="lead">
+      Jag vill bygga Esbo till en stad där klimatåtgärder förbättrar
+      livskvaliteten för invånarna. En stad där det är är lätt att ta sig runt
+      i och med skäliga boendekostnader. En stad där hållbara val är attraktiva
+      och tillgängliga för alla – oavsett oavsett inkomstnivå eller bostadsort.
+    </p>
+    <p class="lead">
+      Detta kräver konkreta åtgärder, från att förbättra transport och byggande
+      till att investera i utbildning. Jag tror uppriktigt att framtiden kan
+      bli ljusare än någonsin, och jag är beredd att arbeta för att uppnå
+      detta. Klicka för att läsa mer om mina teman!
+    </p>
 
-# - id: "experience_button"
-#   translation: "LinkedIn" 
-
-# - id: "experience_button_url"
-#   translation: "https://www.linkedin.com/in/cosmojenytin/"
+- id: "experience_button"
+  translation: "Läs mera om de för mig viktiga frågorna"
+- id: "experience_button_url"
+  translation: "/themes"
 
 # - id: "experience_button2"
 #   translation: "Ladda ner CV"
@@ -94,6 +104,10 @@
 
 # - id: "experience_button3_url"
 #   translation: "/erfarenhet"
+
+## Themes
+- id: "themes"
+  translation: "Teemat"
 
 # ## Homepage client & work
 # - id: "client_work_title"
