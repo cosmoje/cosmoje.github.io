@@ -20,7 +20,7 @@ Utöver ändringar på systemnivå kan vi också ta till konkreta åtgärder på
 
 Minskad konsumtion innebär inte att förstöra det ekonomiska välståndet, utan bara att göra konsumtionen rimligare och rikta om den. Det är uppenbart att många industrier och samhällen är beroende av den nuvarande produktionsmodellen, men vi måste också vara modiga i vårt sökande efter hållbara alternativ. När konsumtionen i allt högre grad övergår till mer hållbara alternativ innebär det också investeringar i innovationer som skapar kvalitetsjobb och samtidigt minskar miljöbelastningen – vilket vi redan har sett inom energisektorn.
 
-Jag diskuterade dessa idéer särskilt ur perspektivet snabbmode och den finska klädindustrin i min insändare som [publicerades i Helsingin Sanomat 10.1.2025] (https://www.hs.fi/mielipide/art-2000010951365.html) (fri översättning nedan):
+Jag diskuterade dessa idéer särskilt ur perspektivet snabbmode och den finska klädindustrin i min insändare som [publicerades i Helsingin Sanomat 10.1.2025](https://www.hs.fi/mielipide/art-2000010951365.html) (fri översättning nedan):
 
 ###### *Inhemska företagare tvingas konkurrera mot globalt snabbmode under orättvisa villkor*
 
