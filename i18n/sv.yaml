@@ -94,22 +94,23 @@
 
 - id: "experience_description"
   translation: <p class="lead">
-      Jag vill bygga Esbo till en stad där klimatåtgärder förbättrar
-      livskvaliteten för invånarna. En stad där det är är lätt att ta sig runt
-      i och med skäliga boendekostnader. En stad där hållbara val är attraktiva
-      och tillgängliga för alla – oavsett oavsett inkomstnivå eller bostadsort.
+      Jag vill bygga ett Esbo där klimatåtgärderna förbättrar livskvaliteten
+      för invånarna. En stad där det är lätt att röra sig och där
+      boendekostnader är rimliga. En stad där hållbara val är attraktiva och
+      tillgängliga för alla – oavsett inkomstnivå eller stadsdel.
     </p>
     <p class="lead">
       Detta kräver konkreta åtgärder, från att förbättra transport och byggande
       till att investera i utbildning. Jag tror uppriktigt att framtiden kan
       bli ljusare än någonsin, och jag är beredd att arbeta för att uppnå
-      detta. Klicka för att läsa mer om mina teman!
+      detta. Klicka för att läsa mer om mina teman och de saker jag vill
+      främja!
     </p>
 
 - id: "experience_button"
   translation: "Läs mera om de för mig viktiga frågorna"
 - id: "experience_button_url"
-  translation: "/themes"
+  translation: "sv/themes"
 
 # - id: "experience_button2"
 #   translation: "Ladda ner CV"

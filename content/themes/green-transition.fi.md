@@ -5,7 +5,7 @@ draft: false
 title: 'Vihreä siirtymä'
 description: '' # meta description for SEO
 jobTitle: "Vihreä siirtymä"
-company: "Kestävyys ei ole uhhraus, vaan mahdollisuus. Rakennetaan tulevaisuuden kaupunki, joka on sekä ympäristöystävällinen että elinvoimainen." # Short description of theme (for summary)
+company: "Kestävyys ei ole uhraus, vaan mahdollisuus. Rakennetaan tulevaisuuden kaupunki, joka on sekä ympäristöystävällinen että elinvoimainen." # Short description of theme (for summary)
 location: "" # not used
 duration: "" # not used
 type: 'themes' # for filtering all content pages based on type
