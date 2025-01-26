@@ -4,6 +4,7 @@ date: '2025-01-26T18:02:37+02:00' # date in which the content is created - defau
 draft: false
 title: 'Det gröna beslutet borde vara det enklaste'
 description: 'Blogg: Hur kan vi göra gröna val enkla och prisvärda? Upptäck en lösning som kommer att göra vår konsumtion mer hållbar genom utsläppshandel och förändringar på systemnivå.'
+summary: "Varför kostar hållbara val mer och kräver mer ansträngning? Hur kan vi göra hållbara alternativ mer attraktiva? I mitt blogginlägg går jag igenom varför hållbara val ofta kostar mer och kräver extra ansträngning. Jag reflekterar över hur en utvidgning av utsläppshandeln och andra systemförändringar skulle kunna göra miljövänliga val både billigare och enklare. Särskilt exemplet med snabbmode visar hur inhemska, ansvarsfulla företag tvingas konkurrera på ojämlika villkor – och hur detta kan åtgärdas."
 type: 'blog'
 ---
 

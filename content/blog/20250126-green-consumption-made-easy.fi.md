@@ -4,6 +4,7 @@ date: '2025-01-26T18:02:37+02:00' # date in which the content is created - defau
 draft: false
 title: 'Vihreän valinnan tulisi olla helpoin'
 description: 'Blogi: Kuinka voimme tehdä ympäristöystävällisistä valinnoista helppoja ja edullisia? Tutustu ratkaisuun, joka muuttaa kulutustamme kestävämmäksi päästökaupan ja järjestelmätason muutosten avulla.'
+summary: "Miksi kestävät valinnat maksavat enemmän ja vaativat enemmän vaivaa? Miten voisimme tehdä kestävistä vaihtoehdoista houkuttelevimpia? Käyn blogikirjoituksessani läpi, miksi kestävät valinnat maksavat usein enemmän ja vaativat ylimääräistä vaivaa. Pohdin, miten päästökaupan laajentaminen ja muut järjestelmätason muutokset voisivat tehdä ympäristöystävällisistä valinnoista sekä halvempia että helpompia. Erityisesti pikamuodin esimerkki näyttää, miten epäreiluin ehdoin kotimaiset, vastuulliset yritykset joutuvat kilpailemaan – ja miten tämä voidaan korjata."
 type: 'blog'
 ---
 
