@@ -13,6 +13,9 @@
 - id: "head_title"
   translation: "Cosmo Jenytin | Hem"
 
+- id: "head_title_short"
+  translation: "Cosmo Jenytin"
+
 - id: "head_description"
   translation: "Cosmo Jenytin – De Grönas kandidat i kommunalvalet 2025 till Esbo stadsfullmäktige."
 

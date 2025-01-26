@@ -3,8 +3,28 @@
 <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
 <meta name="theme-color" content="#006845"/>
 
-<title>{{ i18n "head_title" }}</title>
-<meta name="description" content='{{ i18n "head_description" }}'>
+<title>
+  {{- if .IsHome -}}
+    {{ i18n "head_title" }}
+  {{- else if .Params.hide_site_title -}}
+    {{ .Page.Title }}
+  {{- else if .Page.Title -}}
+    {{ .Page.Title }} | {{ i18n "head_title_short" }}
+  {{- else -}}
+    {{ i18n "head_title_short" }}
+  {{- end -}}
+</title>
+
+{{- if .IsHome -}}
+  <meta name="description" content='{{ i18n "head_description" }}'>
+{{- else -}}
+  {{- if .Params.Description -}}
+    <meta name="description" content="{{ .Params.Description }}">
+  {{- else -}}
+    <meta name="description" content="{{ .Page.Title }}">
+  {{- end -}}
+{{- end }}
+
 <meta name="generator-mode" content='{{ hugo.Environment }}'>
 {{- $critical := resources.Get "css/critical.css" | resources.Minify }}
 <style data-generator="critical-css">
