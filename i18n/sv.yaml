@@ -13,6 +13,9 @@
 - id: "head_title"
   translation: "Cosmo Jenytin | Hem"
 
+- id: "head_title_short"
+  translation: "Cosmo Jenytin"
+
 - id: "head_description"
   translation: "Cosmo Jenytin – De Grönas kandidat i kommunalvalet 2025 till Esbo stadsfullmäktige."
 
@@ -126,7 +129,7 @@
 
 ## Themes
 - id: "themes"
-  translation: "Teemat"
+  translation: "Teman"
 
 # ## Homepage client & work
 # - id: "client_work_title"
@@ -211,6 +214,9 @@
 - id: "sv"
   translation: "Svenska"
 
+## General
+- id: "wordcount_words"
+  translation: "ord"
 
 # Everything below from: https://github.com/HugoBlox/hugo-blox-builder/blob/main/modules/blox-tailwind/i18n/sv.yaml
 

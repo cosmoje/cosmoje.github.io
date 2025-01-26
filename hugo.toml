@@ -41,6 +41,11 @@ pluralizeListTitles = false
         weight = 1
 
       [[languages.fi.menus.header]]
+        name = "Blogi"
+        URL = "/blog"
+        weight = 2
+
+      [[languages.fi.menus.header]]
         name = "Ota yhteyttä"
         URL = "#contact"
         weight = 3
@@ -57,11 +62,16 @@ pluralizeListTitles = false
     languageName = 'Svenska'
     title = ''
     weight = 3
-
+      
       [[languages.sv.menus.header]]
         name = "Mina teman"
         URL = "sv/themes"
         weight = 1
+
+      [[languages.sv.menus.header]]
+        name = "Blogg"
+        URL = "sv/blog"
+        weight = 2
 
       [[languages.sv.menus.header]]
         name = "Ta kontakt"

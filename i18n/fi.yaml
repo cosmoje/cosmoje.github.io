@@ -13,6 +13,9 @@
 - id: "head_title"
   translation: "Cosmo Jenytin | Koti"
 
+- id: "head_title_short"
+  translation: "Cosmo Jenytin"
+
 - id: "head_description"
   translation: "Cosmo Jenytin – Vihreiden ehdokas kunnallisvaaleissa 2025 Espoon valtuustoon."
 
@@ -205,6 +208,10 @@
 ## Education
 - id: "education_title"
   translation: "Koulutus"
+
+## General
+- id: "wordcount_words"
+  translation: "sanaa"
 
 
 
