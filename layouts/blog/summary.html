@@ -4,7 +4,7 @@
     <div class="post-meta">
       <div>
         <section>
-          {{ i18n "published_on" }}
+          {{ i18n "published_on" }} <!-- extra space on purpose -->
           <h4 id="date">{{ .Date | time.Format ":date_long" }}</h4>
         </section>
         {{ with .GetTerms "topics" }}
