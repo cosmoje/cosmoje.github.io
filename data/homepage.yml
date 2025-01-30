@@ -1,13 +1,20 @@
 ## Looking for strings? Check the i18n folder.
 
+# hero banner
+hero_banner:
+  enable: true
+  image:
+    x: "images/hero_banner/Cosmo-Jenytin-kuntavaalit-vihreät-2025-tapiola-banner.jpg"
+
 # showcase
 showcase:
   enable: true
   image:
-    x: "images/showcase/Cosmo-Jenytin-kuntavaalit-vihreät-2025-outside.jpg"
-    _2x: "images/showcase/Cosmo-Jenytin-kuntavaalit-vihreät-2025-outside.jpg"
+    x: "images/showcase/Cosmo-Jenytin-2025-kuntavaalit-ehdokas-vihreät-espoo-outside-medium.jpg"
+    _2x: "images/showcase/Cosmo-Jenytin-2025-kuntavaalit-ehdokas-vihreät-espoo-outside.jpg"
+    
   imageMobile:
-    x: "images/showcase/Cosmo-Jenytin-kuntavaalit-vihreät-2025-outside.jpg"
+    x: "images/showcase/Cosmo-Jenytin-2025-kuntavaalit-ehdokas-vihreät-espoo-outside-medium.jpg"
 
   socialLinks:
     - icon: "linkedin"
@@ -25,8 +32,8 @@ about:
     icon: "icon-user"
     URL: "#about"
   image:
-    x: "images/about/Cosmo-Jenytin-kuntavaalit-vihreät-2025-inside.jpg"
-    _2x: "images/about/Cosmo-Jenytin-kuntavaalit-vihreät-2025-inside.jpg"
+    x: "images/about/Cosmo-Jenytin-2025-kuntavaalit-ehdokas-vihreät-espoo-inside-medium.jpg"
+    _2x: "images/about/Cosmo-Jenytin-2025-kuntavaalit-ehdokas-vihreät-espoo-inside.jpg"
 
 # education
 education:
