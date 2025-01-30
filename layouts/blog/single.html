@@ -18,7 +18,7 @@
         <aside id="meta" class="light-border-bottom">
           <div>
             <section>
-              <span>{{ i18n "published_on" }}</span>
+              <span>{{ i18n "published_on" }}&nbsp;</span>
               <h4 id="date">{{ .Date | time.Format ":date_long" }}</h4>
             </section>
             {{ with .GetTerms "topics" }}
