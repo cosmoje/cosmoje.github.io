@@ -5,67 +5,47 @@
 
 /* SHOWCASE */
 // Remove padding above photo in showcase section on non-wide screens, add padding below
-.profile-image {
-    margin-top: -60px;
-    padding-top: 0px;
-    margin-bottom: 30px;
+@media (max-width: 992px) {
+    .profile-image {
+        // margin-top: -100px;
+        // padding-top: 0px;
+        margin-bottom: 30px;
+    }
 }
 // Add padding to the top of the main content to prevent overlap with the header on
 // wider screens
-@media (min-width: 992px) {
+@media (max-width: 992px) {
     .rad-showcase {
-        margin-top: 0px; /* Adjust the value as needed for wider screens */
-        padding-top: 0px;
+        margin-top: 20px; /* Adjust the value as needed for wider screens */
+        padding-top: 40px;
     }
-}
-// Add padding to the bottom of the showcase
-section#showcase {
-    margin-bottom: 10px;
 }
 
-// Force the showcase section picture to have a max-height to prevent it from being too
-// tall on wider screens
 @media (min-width: 992px) {
-    .profile-image {
-        max-height: 550px;
-    }
-    .profile-image img {
-        max-height: 100%;
-        width: auto;
+    .rad-showcase + section {
+        margin-top: -70px;
+        padding-top: 0px;
+        margin-bottom: -70px;
+        padding-bottom: 0px;
     }
 }
 
 /* ABOUT */
-// Add paddings to about section
-section#about {
-    margin-top: 20px;
-    padding-top: 0px;
-    margin-bottom: 0px;
-    padding-bottom: 0px;
-}
-@media (min-width: 992px) {
+// Fix paddings around about section
+// Small screens
+@media (max-width: 992px) {
     section#about {
-        margin-top: 0px; /* Adjust as needed */
-        padding-top: 0px;
-        margin-bottom: 0px; /* Adjust as needed */
+        margin-bottom: -170px;
         padding-bottom: 0px;
-      }
-}
-
-// Force the about section picture to have a max-height to prevent it from being super
-// tall on both wider and smaller screens
-@media (min-width: 992px) {
-    .about__profile-picture.col-12.col-md-6 {
-        max-height: 500px; /* Or any desired max-height */
     }
 }
-.about__profile-picture.col-12.col-md-6 picture img {
-    max-height: 350px;
-}
-@media (min-width: 992px) {
+
+// Fix the incorrectly sized columns reordering below each other on small screens
+@media (max-width: 992px) {
     .about__profile-picture.col-12.col-md-6 picture img {
-        max-height: 100%;
-      }
+        margin-top: -200px;
+        padding-top: 0px;
+    }
 }
 
 /* THEMES */
