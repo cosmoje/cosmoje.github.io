@@ -73,6 +73,10 @@
     letter-spacing: -0px;
     color: #000;
 }
+// Fix theme picture aspect ratio (found only on the theme section page, not homepage)
+.theme-picture img {
+    height: auto;
+}
 
 /* CONTACT */
 // Set the background color of the contact box
