@@ -174,7 +174,7 @@
   translation: "Sähköposti"
 
 - id: "contact_email_email"
-  translation: '<a href="mailto:cosmo@cosmojenytin.fi">cosmo@cosmojenytin.fi</a>'
+  translation: 'cosmo@cosmojenytin.fi'
 
 - id: "contact_button"
   translation: "Lähetä viesti"
