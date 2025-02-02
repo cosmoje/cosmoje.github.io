@@ -58,30 +58,20 @@
   translation: "Kuka Cosmo?"
 
 - id: "about_content"
-  translation: <ul>
-      <li>
-        <p class="lead"><span class="fw-bold">Diplomi-insinööri ja Data
+  translation: <p class="lead"><span class="fw-bold">Diplomi-insinööri ja Data
         Scientist</span>, jolla kykyä ymmärtää monimutkaisia ongelmia ja
         kehittää toimivia ratkaisuja. Pyrin aina näkemään ison kuvan ja osaan
         yhdistää eri näkökulmia käytännön ratkaisuiksi.</p>
-      </li>
-      <li>
-        <p class="lead"><span class="fw-bold">Elän arvojeni mukaan&#58;</span>
-        Pyöräily ja kävely, vegaaniruoan suosiminen sekä kestävä kulutus ovat
-        ilmastotekoja arjessani.</p>
-      </li>
-      <li>
-        <p class="lead"><span class="fw-bold">Paljasjalkainen
+      <p class="lead"><span class="fw-bold">Paljasjalkainen
         espoolainen&#58;</span> Olen syntynyt ja asunut koko elämäni Espoossa.
         Rakastan kaupunkiamme, ja tunnen sen haasteet ja mahdollisuudet.</p>
-      </li>
-      <li>
-        <p class="lead"><span class="fw-bold">Yhteisöaktiivi&#58;</span> Olen
+      <p class="lead"><span class="fw-bold">Yhteisöaktiivi&#58;</span> Olen
         mukana monessa, sekä Aalto-yliopiston yhteisöissä että kuorossa.
         Kaksikielisenä ehdokkaana rakennan siltoja eri kulttuurien ja
         kieliryhmien välillä myös arjessa.</p>
-      </li>
-    </ul>
+      <p class="lead"><span class="fw-bold">Elän arvojeni mukaan&#58;</span>
+        Pyöräily ja kävely, vegaaniruoan suosiminen sekä kestävä kulutus ovat
+        ilmastotekoja arjessani.</p>
 
 - id: "about_button"
   translation: "Cosmosta"
