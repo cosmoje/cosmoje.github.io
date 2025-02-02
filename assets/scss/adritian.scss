@@ -111,6 +111,27 @@ body, p, a, .lead, .text-muted, .section, .container {
     gap: 8px;
 }
 
+// Set text styles for basic text content (to also style e.g. blogs and themes)
+p {
+    font-size: 16px !important;
+    font-weight: 300 !important;
+    line-height: 1.2 !important;
+    letter-spacing: -0px !important;
+    color: #000 !important;
+}
+@media (min-width: 992px) {
+    p {
+        font-size: 18px !important;
+    }
+}
+// Override color of highlighted (selected) text in the body
+html body ::selection{
+    background-color:#284734 !important;
+}
+
+
+// Adritian stylesheet (mostly unchanged?) from here onwards
+
 /** main style **/
 .header .navbar-brand span:first-child{
     color: #006845;
