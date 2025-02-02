@@ -36,7 +36,7 @@
                     <h3>{{ i18n "contact_phone_title" }}</h3>
                     <span>{{ i18n "contact_phone_number" }}</span>
                     <h3>{{ i18n "contact_email_title" }}</h3>
-                    <span><a href="mailto:{{ i18n "contact_email_email" }}">{{ i18n "contact_email_email" }}</a></span>
+                    <span><a href="mailto:{{ .Site.Data.homepage.contact.email }}">{{ i18n "contact_email_email" }}</a></span>
                     <h3>{{ i18n "contact_address_title" }}</h3>
                     <span>{{ i18n "contact_address_address" | safeHTML }}</span>
                 </div>

@@ -79,6 +79,8 @@ contact:
     icon: "icon-email"
     btnText: "Send Message"
 
+  email: "cosmo@cosmojenytin.fi"
+
 # newsletter
 newsletter:
   enable: false
