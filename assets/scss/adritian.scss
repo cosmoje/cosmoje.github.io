@@ -4,23 +4,31 @@
 @import "raditian";
 
 /* SHOWCASE */
-// Remove padding above photo in showcase section on non-wide screens, add padding below
-@media (max-width: 992px) {
+// Set the background color of the showcase section
+.rad-showcase {
+    background-color: #ebebec;
+}
+// Remove padding above showcase photo that was causing assymetry between the
+// text and picture columns' vertical alignment
+.profile-image img{
+    margin-top: 0px;
+}
+// Small screens: add padding below image, to have neat whitespace around it when columns
+// organized on top of each other
+@media (max-width: 991px) {
     .profile-image {
-        // margin-top: -100px;
-        // padding-top: 0px;
         margin-bottom: 30px;
     }
 }
-// Add padding to the top of the main content to prevent overlap with the header on
-// wider screens
-@media (max-width: 992px) {
+// Small screens: add padding below section
+@media (max-width: 991px) {
     .rad-showcase {
-        margin-top: 20px; /* Adjust the value as needed for wider screens */
-        padding-top: 40px;
+        padding-bottom: 30px;
     }
 }
 
+/* ABOUT */
+// Wide screens: decrease unnecessary whitespace around the about section
 @media (min-width: 992px) {
     .rad-showcase + section {
         margin-top: -70px;
@@ -29,26 +37,30 @@
         padding-bottom: 0px;
     }
 }
-
-/* ABOUT */
-// Fix paddings around about section
-// Small screens
-@media (max-width: 992px) {
-    section#about {
-        margin-bottom: -170px;
-        padding-bottom: 0px;
+// Fix the profile picture being too high (due to a larger filesize), causing too much
+// whitespace around it on smaller screens
+@media (max-width: 991px) {
+    .about__profile-picture, .about__profile-picture img {
+        max-height: 500px;
     }
 }
-
-// Fix the incorrectly sized columns reordering below each other on small screens
-@media (max-width: 992px) {
-    .about__profile-picture.col-12.col-md-6 picture img {
-        margin-top: -200px;
-        padding-top: 0px;
+// Remove padding on top of picture
+.about__profile-picture {
+    margin-top: 0px;
+}
+// Small screens: negative padding to decrease whitespace between text and picture
+@media (max-width: 991px) {
+    .about__profile-picture {
+        margin-top: -50px;
     }
 }
 
 /* THEMES */
+// Set the background color of the theme section
+.section-themes {
+    background-color: #ebebec;
+}
+// Set the color of the theme buttons when pushed
 .experience a:active{
     display: block;
     background-color: #284734 !important;
@@ -61,6 +73,20 @@
     letter-spacing: -0px;
     color: #000;
 }
+
+/* CONTACT */
+// Set the background color of the contact box
+.div.container {
+    background-color: #ebebec;
+}
+// Set the padding for the contact form box so it does not spill into the previous
+// section
+@media (min-width: 992px) {
+    .contact {
+        margin-top: 20px !important;
+    }
+}
+
 
 /* GENERAL */
 /* Import Google Fonts */
@@ -93,16 +119,11 @@ html body ::selection{
     background-color:#488079;color:#fff
 }
 
-
 .container {
     padding-left: 24px;
     padding-right: 24px
 }
 
-.container {
-    padding-left: 24px;
-    padding-right: 24px;
-}
 .h1,
 .h2,
 .h3,
