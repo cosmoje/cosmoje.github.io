@@ -20,3 +20,7 @@ type: 'themes' # for filtering all content pages based on type
 # Vihreä siirtymä
 
 Panostamalla vihreään siirtymään ja koulutukseen voimme luoda kestävämmän ja elinvoimaisemman kaupungin, samalla kun luomme uusia työpaikkoja.
+
+Vihreää siirtymää on myös se, että vihreistä valinnoista tehdään helpoimmat: tuetaan yrityksiä jotka toimivat vastuullisesti, kehitetään julkista liikennettä ja pyöräily- ja kävelymahdollisuuksia niin, että ne tuntuvat luontevimmilta liikkumisen muodoilta, ja tehdään kasvisruoasta oletusvaihtoehto kaupungin ruokatuotannossa. Voit lukea lisää arjen valinnoista [blogistani]({{<ref "/blog/20250126-green-consumption-made-easy">}}).
+
+![Cosmo Jenytin 2025 Espoon Vihreät kuntavaaliehdokas, vihreää siirtymää ja koulutusta Aalto-yliopistossa](Cosmo-Jenytin-2025-kuntavaalit-ehdokas-vihreät-espoo-vihreä-siirtymä-koulutus-Aalto-yliopisto.jpg)

@@ -20,3 +20,5 @@ type: 'themes' # for Hugo deduction of target folder?
 # Bättre rörlighet
 
 I Esbo måste rörligheten vara flexibel, smidig och säker för alla. Vi bör utveckla mer omfattande kollektivtrafik, förbättra gång- och cykelvägar och skapa fler alternativ till privatbilism.
+
+![Cosmo Jenytin 2025 Esbos Grönas kommunalvalskandidat, i metron med cykel](Cosmo-Jenytin-2025-kuntavaalit-ehdokas-vihreät-espoo-parempaa-liikkuvuutta-metro-pyörä.jpg)

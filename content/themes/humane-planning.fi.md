@@ -20,3 +20,5 @@ type: 'themes' # for Hugo deduction of target folder?
 # Inhimillisempää kaupunkisuunnittelua
 
 Asukkaat luovat kaupungin ja yhteisön, joten ihmisten tulisikin aina olla kaupunkisuunnittelun ja rakentamisen keskiössä. Espoo tarvitsee enemmän yhteisöllisyyttä edistäviä monikäyttöisiä asuinalueita, joissa arjen tarpeet löytyvät kävely- tai pyöräilymatkan päästä ja joukkoliikenne toimii.
+
+![Cosmo Jenytin 2025 Espoon Vihreät kuntavaaliehdokas, ihmiskeskeinen kaupunkisuunnittelu](Cosmo-Jenytin-2025-kuntavaalit-ehdokas-vihreät-espoo-ihmiskeskeinen-kaupunkisuunnittelu.jpg)
