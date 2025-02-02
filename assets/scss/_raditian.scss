@@ -1349,7 +1349,7 @@ ul.book-category-content {
 }
 .book-content.featured::before {
     content: "\2605"; /* Unicode bullet symbol */
-    color: #478079;  /* Bullet color */
+    color: #006845;  /* Bullet color */
 	/* Optional tweaks */
     font-weight: bold;
     padding-right: 10px;
@@ -1368,7 +1368,7 @@ li.book-content p{
 }
 
 .experience__company{
-    color: #478079;
+    color: #006845;
 }
 
 .experience__location{

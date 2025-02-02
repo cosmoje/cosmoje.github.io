@@ -58,32 +58,22 @@
   translation: "Vem Cosmo?"
 
 - id: "about_content"
-  translation: <ul>
-      <li>
-        <p class="lead"><span class="fw-bold">Diplomingenjör och Data
+  translation: <p class="lead"><span class="fw-bold">Diplomingenjör och Data
         Scientist</span>, med förmåga att förstå komplexa problem och utveckla
         fungerande lösningar. Jag strävar alltid efter att se helheten och kan
         förena olika perspektiv till praktiska lösningar.</p>
-      </li>
-      <li>
-        <p class="lead"><span class="fw-bold">Lever efter mina
-        värderingar&#58;</span> Att cykla, promenera och använda
-        kollektivtrafik, vegansk mat och hållbar konsumtion är klimathandlingar
-        i min vardag.</p>
-      </li>
-      <li>
-        <p class="lead"><span class="fw-bold">Livslång Esbobo&#58;</span> Född
+      <p class="lead"><span class="fw-bold">Livslång Esbobo&#58;</span> Född
         och uppvuxen i Esbo och har levt i staden hela livet. Älskar staden och
         känner dess utmaningar och möjligheter.</p>
-      </li>
-      <li>
-        <p class="lead"><span class="fw-bold">Samhällsaktiv&#58;</span>
+      <p class="lead"><span class="fw-bold">Samhällsaktiv&#58;</span>
         Engagerad i diverse föreningar vid Aalto-universitetet och i Akademiska
         Sångföreningen. Som tvåspråkig kandidat förstår jag den särskilda
         vikten som måste läggas vid att bevara den finlandssvenska kulturen och
         servicen.</p>
-      </li>
-    </ul>
+      <p class="lead"><span class="fw-bold">Lever efter mina
+        värderingar&#58;</span> Att cykla, promenera och använda
+        kollektivtrafik, vegansk mat och hållbar konsumtion är klimathandlingar
+        i min vardag.</p>
 
 - id: "about_button"
   translation: "Om Cosmo"
@@ -111,7 +101,7 @@
     </p>
 
 - id: "experience_button"
-  translation: "Läs mera om de för mig viktiga frågorna"
+  translation: "Läs mera om mina teman"
 - id: "experience_button_url"
   translation: "sv/themes"
 
@@ -182,9 +172,6 @@
 
 - id: "contact_email_title"
   translation: "E-post"
-
-- id: "contact_email_email"
-  translation: '<a href="mailto:cosmo@cosmojenytin.fi">cosmo@cosmojenytin.fi</a>'
 
 - id: "contact_button"
   translation: "Skicka meddelande"

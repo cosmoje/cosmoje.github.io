@@ -20,3 +20,5 @@ type: 'themes' # for Hugo deduction of target folder?
 # Parempaa liikkuvuutta
 
 Espoossa liikkumisen on oltava joustavaa, sujuvaa ja turvallista kaikille. Kehitetään kattavampaa joukkoliikennettä, parannetaan kävely- ja pyöräteitä, luodaan enemmän vaihtoehtoja yksityisautoilulle.
+
+![Cosmo Jenytin 2025 Espoon Vihreät kuntavaaliehdokas, metrossa pyörän kanssa](Cosmo-Jenytin-2025-kuntavaalit-ehdokas-vihreät-espoo-parempaa-liikkuvuutta-metro-pyörä.jpg)

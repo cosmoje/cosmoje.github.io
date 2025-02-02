@@ -20,3 +20,5 @@ type: 'themes' # for Hugo deduction of target folder?
 # Människocentrerad stadsplanering
 
 Invånarna är de som skapar staden och gemenskapen, och därför borde också människor också alltid vara i centrum för stadsplaneringen och byggandet. Esbo behöver fler mångfunktionella bostadsområden som främjar gemenskap och där vardagens behov finns inom gång- eller cykelavstånd och där kollektivtrafiken fungerar effektivt.
+
+![Cosmo Jenytin 2025 Esbos Grönas kommunalvalskandidat, människocentrerad stadsplanering](Cosmo-Jenytin-2025-kuntavaalit-ehdokas-vihreät-espoo-ihmiskeskeinen-kaupunkisuunnittelu.jpg)
