@@ -21,6 +21,13 @@ type: 'themes' # for filtering all content pages based on type
 
 Genom att investera i en grön omställning och utbildning kan vi skapa en mer hållbar och levande stad, samtidigt som vi skapar nya jobb.
 
-En grön omställning betyder också att vi gör de gröna valen till de enklaste genom att stöda företag som agerar hållbart, utveckla kollektivtrafik och möjligheten till cykling och gång så att de känns som de mest naturliga valet av transport, och att göra vegetarisk mat till standardvalet i stadens matproduktion. Du kan läsa mer om vardagliga val på min [blogg]({{<ref "/blog/20250126-green-consumption-made-easy">}}).
+En grön omställning betyder också att vi gör de gröna valen till de enklaste, genom att:
+
+* betona hållbarhet i allt större grad i alla stadens anskaffningar och konkurrensutsättningar
+* stöda företag som agerar hållbart
+* utveckla kollektivtrafik och möjligheten till cykling och gång så att de känns som de mest naturliga valet av transport
+* stöda hållbara alternativ, t.ex. genom att göra vegetarisk mat till standardvalet i stadens matproduktion.
+
+Du kan läsa mer om vardagliga val på min [blogg]({{<ref "/blog/20250126-green-consumption-made-easy">}}).
 
 ![Cosmo Jenytin 2025 Esbos Grönas kommunalvalskandidat, grön omställning och utbildning vid Aalto-universitetet](Cosmo-Jenytin-2025-kuntavaalit-ehdokas-vihreät-espoo-vihreä-siirtymä-koulutus-Aalto-yliopisto.jpg)
