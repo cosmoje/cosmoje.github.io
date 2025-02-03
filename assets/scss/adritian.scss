@@ -132,7 +132,7 @@ body, p, a, .lead, .text-muted, .section, .container {
 }
 
 // Set text styles for basic text content (to also style e.g. blogs and themes)
-p {
+p, li {
     font-size: 16px !important;
     font-weight: 300 !important;
     line-height: 1.5 !important;
@@ -140,10 +140,23 @@ p {
     color: #000 !important;
 }
 @media (min-width: 992px) {
-    p {
+    p, li {
         font-size: 18px !important;
     }
 }
+
+// Make the list be a bit closer to the preceding paragraph
+p + ul, p + ol {
+    margin-top: calc(-30px + 16px) !important;
+}
+
+// Add more space between text and inline pictures (e.g., in the themes pages) to cancel
+// out the -12px top margin added between text paragraphs (later in this file, by
+// adritian)
+p > img {
+    margin-top: 12px;
+}
+
 // Override color of highlighted (selected) text in the body
 html body ::selection{
     background-color:#284734 !important;
