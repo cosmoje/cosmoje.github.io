@@ -3,7 +3,7 @@ slug: 'vihrea-siirtyma' # Add a localized slug
 date: '2025-01-01T00:00:00+02:00' # ordering is in reverse date order
 draft: false
 title: 'Vihreä siirtymä'
-description: '' # meta description for SEO
+description: 'Vaaliteema: vihreä siirtymä. Kestävyys ei ole uhraus, vaan mahdollisuus. Rakennetaan tulevaisuuden kaupunki, joka on sekä ympäristöystävällinen että elinvoimainen.' # meta description for SEO
 jobTitle: "Vihreä siirtymä"
 company: "Kestävyys ei ole uhraus, vaan mahdollisuus. Rakennetaan tulevaisuuden kaupunki, joka on sekä ympäristöystävällinen että elinvoimainen." # Short description of theme (for summary)
 location: "" # not used

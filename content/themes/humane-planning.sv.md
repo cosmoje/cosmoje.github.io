@@ -3,7 +3,7 @@ slug: 'manniskocentrerad-stadsplanering' # Add a localized slug
 date: '2025-01-02T00:00:00+02:00' # ordering is in reverse date order
 draft: false
 title: 'Människocentrerad stadsplanering'
-description: '' # meta description for SEO
+description: 'Valtema: människocentrerad stadsplanering. Staden är en gemenskap – låt oss skapa stadsdelar som möjliggör en smidig vardag och möten människor emellan.' # meta description for SEO
 jobTitle: "Människocentrerad stadsplanering" # job description/title. Fill-in
 company: "Staden är en gemenskap, inte bara en konstruktion. Låt oss skapa stadsdelar som möjliggör en smidig vardag och där människor möts." # name of the company you worked for. Fill-in
 location: "" # place/city/country for the experience. Fill-in.
