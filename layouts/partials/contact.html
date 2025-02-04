@@ -8,19 +8,19 @@
                     <form action="{{ .Site.Data.homepage.contact.form.action }}" method="{{ .Site.Data.homepage.contact.form.method }}">
                         <div class="row">
                             <div class="col-12 col-sm-6">
-                                <label for="full_name">{{ i18n "contact_form_name" }}</label>
+                                <label for="full_name" hidden>{{ i18n "contact_form_name" }}</label>
                                 <input type="text" name="full_name" id="full_name"
                                        placeholder='{{ i18n "contact_form_name" }}' aria-label="{{ i18n "contact_form_name" }}"/>
                             </div>
                             <div class="col-12 col-sm-6">
-                                <label for="email">{{ i18n "contact_form_email" }}</label>
+                                <label for="email" hidden>{{ i18n "contact_form_email" }}</label>
                                 <input type="email" name="email" id="email"
                                        placeholder='{{ i18n "contact_form_email" }}' aria-label="{{ i18n "contact_form_email" }}"/>
                             </div>
                         </div>
                         <div class="row pt-4">
                             <div class="col-12">
-                                <label for="message">{{ i18n "contact_form_message" }}</label>
+                                <label for="message" hidden>{{ i18n "contact_form_message" }}</label>
                                 <textarea name="message" id="message"
                                           cols="30" rows="3" placeholder='{{ i18n "contact_form_message" }}' aria-label="{{ i18n "contact_form_message" }}"></textarea>
                             </div>
