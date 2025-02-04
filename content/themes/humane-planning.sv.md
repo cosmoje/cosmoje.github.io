@@ -5,7 +5,7 @@ draft: false
 title: 'Människocentrerad stadsplanering'
 description: '' # meta description for SEO
 jobTitle: "Människocentrerad stadsplanering" # job description/title. Fill-in
-company: "Staden är en gemenskap, inte bara en konstruktion. Vi kan skapa stadsdelar som möjliggör en smidig vardag och där människor möts." # name of the company you worked for. Fill-in
+company: "Staden är en gemenskap, inte bara en konstruktion. Låt oss skapa stadsdelar som möjliggör en smidig vardag och där människor möts." # name of the company you worked for. Fill-in
 location: "" # place/city/country for the experience. Fill-in.
 duration: "" # from-to, for example "2022-2024". Fill-in.
 type: 'themes' # for Hugo deduction of target folder?
