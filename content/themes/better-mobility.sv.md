@@ -3,7 +3,7 @@ slug: 'battre-rorlighet' # Add a localized slug
 date: '2025-01-03T00:00:00+02:00' # ordering is in reverse date order
 draft: false
 title: 'Bättre rörlighet'
-description: '' # meta description for SEO
+description: 'Valtema: bättre rörlighet. Låt oss bygga ett Esbo där varje människa kan röra sig lätt – med cykel, till fots eller genom välfungerande kollektivtrafik.' # meta description for SEO
 jobTitle: "Bättre rörlighet" # job description/title. Fill-in
 company: "Rörelse är frihet. Låt oss bygga ett Esbo där varje människa kan röra sig lätt – med cykel, till fots eller genom välfungerande kollektivtrafik."
 location: "" # place/city/country for the experience. Fill-in.

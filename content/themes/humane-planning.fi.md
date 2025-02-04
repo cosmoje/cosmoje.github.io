@@ -3,7 +3,7 @@ slug: 'ihmiskeskeisempaa-kaupunkisuunnittelua' # Add a localized slug
 date: '2025-01-02T00:00:00+02:00' # ordering is in reverse date order
 draft: false
 title: 'Ihmiskeskeisempää kaupunkisuunnittelua'
-description: '' # meta description for SEO
+description: 'Vaaliteema: ihmiskeskeisempää kaupunkisuunnittelua. Kaupunki on yhteisö, ei pelkkä rakennelma. Luodaan naapurustoja, joissa arki sujuu ja ihmiset kohtaavat.' # meta description for SEO
 jobTitle: "Ihmiskeskeisempää kaupunkisuunnittelua" # job description/title. Fill-in
 company: "Kaupunki on yhteisö, ei pelkkä rakennelma. Luodaan naapurustoja, joissa arki sujuu helposti ja ihmiset kohtaavat." # name of the company you worked for. Fill-in
 location: "" # place/city/country for the experience. Fill-in.
