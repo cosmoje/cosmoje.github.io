@@ -27,7 +27,17 @@
         createCookie(name,"",-1);
     }
 
-    if(readCookie('cookie-notice-option')=='true') {
+    // Check for Do Not Track
+    var doNotTrack = false;
+    if ({{ site.Config.Privacy.GoogleAnalytics.RespectDoNotTrack }} == 'true') {
+        var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+        var doNotTrack = (dnt == "1" || dnt == "yes");
+    }
+    if (doNotTrack) {
+        // Do nothing, just hide the cookie notice
+        document.getElementById('cookie-notice').style.display = 'none';
+        location.reload();
+    } else if(readCookie('cookie-notice-option')=='true' ) {
         {{ if hugo.IsProduction | or (eq .Site.Params.env "production") }}
         
         function loadScriptAsync(scriptSrc, callback) {
@@ -43,11 +53,11 @@
         /* This is the part where you call the above defined function and "calls back" 
         your code which gets executed after the script has loaded */
         //REPLACE WITH YOUR GA TAG!
-        loadScriptAsync('https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX', function () {
+        loadScriptAsync('https://www.googletagmanager.com/gtag/js?id={{ site.Config.Services.GoogleAnalytics.ID }}', function () {
             window.dataLayer = window.dataLayer || [];
             function gtag() { dataLayer.push(arguments); }
             gtag('js', new Date());
-            gtag('config', 'G-XXXXXXXXXX', { 'anonymize_ip': true }); //REPLACE WITH YOUR GA TAG!
+            gtag('config', '{{ site.Config.Services.GoogleAnalytics.ID }}', { 'anonymize_ip': true }); //REPLACE WITH YOUR GA TAG!
         })
 
         {{ end }}
@@ -66,5 +76,4 @@
         document.getElementById('cookie-notice').style.display = 'none';
         location.reload();
     });
-
 </script>
