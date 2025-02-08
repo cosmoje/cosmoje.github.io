@@ -200,7 +200,20 @@
 - id: "wordcount_words"
   translation: "sanaa"
 
+## 404
+- id: "sorry_page_not_found_text"
+  translation: "Valitsemaasi sivuun ei juuri nyt saada yhteyttä."
 
+- id: "back_to_home"
+  translation: "Takaisin etusivulle"
+
+## Cookie consent
+- id: "cookie_message"
+  translation: "Tämä sivusto käyttää evästeitä sivuston toiminnan parantamiseksi."
+- id: "cookie_accept"
+  translation: "Hyväksy"
+- id: "cookie_decline"
+  translation: "Kiellä"
 
 # Everything below from: https://github.com/HugoBlox/hugo-blox-builder/blob/main/modules/blox-tailwind/i18n/fi.yaml
 
