@@ -205,6 +205,13 @@
 - id: "wordcount_words"
   translation: "ord"
 
+## 404
+- id: "sorry_page_not_found_text"
+  translation: "Kontakt med sidan ni har valt fås ej."
+
+- id: "back_to_home"
+  translation: "Tillbaka till framsidan"
+
 # Everything below from: https://github.com/HugoBlox/hugo-blox-builder/blob/main/modules/blox-tailwind/i18n/sv.yaml
 
 # Navigation

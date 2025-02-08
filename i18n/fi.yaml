@@ -200,6 +200,12 @@
 - id: "wordcount_words"
   translation: "sanaa"
 
+## 404
+- id: "sorry_page_not_found_text"
+  translation: "Valitsemaasi sivuun ei juuri nyt saada yhteyttä."
+
+- id: "back_to_home"
+  translation: "Takaisin etusivulle"
 
 
 # Everything below from: https://github.com/HugoBlox/hugo-blox-builder/blob/main/modules/blox-tailwind/i18n/fi.yaml
