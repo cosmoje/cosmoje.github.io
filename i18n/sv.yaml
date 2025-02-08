@@ -212,6 +212,14 @@
 - id: "back_to_home"
   translation: "Tillbaka till framsidan"
 
+## Cookie consent
+- id: "cookie_message"
+  translation: "Denna webbplats använder kakor för att förbättra dess funktionalitet."
+- id: "cookie_accept"
+  translation: "Godkänn"
+- id: "cookie_decline"
+  translation: "Neka"
+
 # Everything below from: https://github.com/HugoBlox/hugo-blox-builder/blob/main/modules/blox-tailwind/i18n/sv.yaml
 
 # Navigation
