@@ -24,7 +24,7 @@
   translation: "Cosmo Jenytin"
 
 - id: "showcase_subtitle"
-  translation: "Diplomi-insinööri ja Data Scientist Tapiolasta."
+  translation: "Diplomi-insinööri ja datatieteilijä Tapiolasta."
 
 - id: "showcase_description"
   translation: <p class="lead">
@@ -58,8 +58,8 @@
   translation: "Kuka Cosmo?"
 
 - id: "about_content"
-  translation: <p class="lead"><span class="fw-bold">Diplomi-insinööri ja Data
-        Scientist</span>, jolla kykyä ymmärtää monimutkaisia ongelmia ja
+  translation: <p class="lead"><span class="fw-bold">Diplomi-insinööri ja
+        datatieteilijä</span>, jolla kykyä ymmärtää monimutkaisia ongelmia ja
         kehittää toimivia ratkaisuja. Pyrin aina näkemään ison kuvan ja osaan
         yhdistää eri näkökulmia käytännön ratkaisuiksi.</p>
       <p class="lead"><span class="fw-bold">Paljasjalkainen
