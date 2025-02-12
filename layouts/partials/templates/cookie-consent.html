@@ -52,12 +52,18 @@
 
         /* This is the part where you call the above defined function and "calls back" 
         your code which gets executed after the script has loaded */
-        //REPLACE WITH YOUR GA TAG!
         loadScriptAsync('https://www.googletagmanager.com/gtag/js?id={{ site.Config.Services.GoogleAnalytics.ID }}', function () {
             window.dataLayer = window.dataLayer || [];
             function gtag() { dataLayer.push(arguments); }
             gtag('js', new Date());
-            gtag('config', '{{ site.Config.Services.GoogleAnalytics.ID }}', { 'anonymize_ip': true }); //REPLACE WITH YOUR GA TAG!
+            gtag('config', '{{ site.Config.Services.GoogleAnalytics.ID }}');
+            // Update the consent state with the approval
+            gtag('consent', 'update', {
+                'ad_user_data': 'granted',
+                'ad_personalization': 'granted',
+                'ad_storage': 'granted',
+                'analytics_storage': 'granted'
+            });
         })
 
         {{ end }}
