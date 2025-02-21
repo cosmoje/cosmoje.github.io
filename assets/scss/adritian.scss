@@ -37,6 +37,13 @@
     }
 }
 
+// Fix the formatting for the social links in the showcase section
+.rad-showcase div#social-links [class^="icon-"] {
+    // margin-right: 5px;
+    font-size: 1.8rem;
+    color: #000;
+}
+
 /* ABOUT */
 // Wide screens: decrease unnecessary whitespace around the about section
 @media (min-width: 992px) {
@@ -109,6 +116,16 @@
     .contact {
         margin-top: 20px !important;
     }
+}
+
+/* FOOTER */
+// Fix the formatting for the social links in the footer
+.footer div#footer-social-links {
+    margin-top: 20px;
+}
+.footer div#footer-social-links [class^="icon-"] {
+    font-size: 1.8rem;
+    color: #fff;
 }
 
 /* COOKIE CONSENT */

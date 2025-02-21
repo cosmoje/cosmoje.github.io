@@ -17,11 +17,11 @@ showcase:
     x: "images/showcase/Cosmo-Jenytin-2025-kuntavaalit-ehdokas-vihreät-espoo-outside-medium.jpg"
 
   socialLinks:
+    - icon: "instagram"
+      URL: "https://www.instagram.com/cosmojenytin/"
+
     - icon: "linkedin"
       URL: "https://www.linkedin.com/in/cosmojenytin/"
-
-    # - icon: "instagram"
-    #   URL: "https://www.instagram.com/cosmo.jenytin/"
 
     # - icon: "square-facebook"
     #   URL: "https://www.facebook.com/cosmo.jenytin/"
