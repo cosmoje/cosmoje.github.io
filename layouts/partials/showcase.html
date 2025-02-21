@@ -12,6 +12,13 @@
         <p class="lead">
         {{ i18n "showcase_description" | safeHTML }}
         </p>
+        <div id="social-links">
+          {{ range .Site.Data.homepage.showcase.socialLinks }}
+          <a href="{{ .URL | absURL }}" target="_blank" rel="nofollow noopener noreferrer" aria-label="{{ .icon }}"
+            ><i class="icon-{{ .icon }}"></i
+          ></a>
+          {{ end }}
+        </div>
       </div>
       <!-- Profile image -->
       <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 profile-image">

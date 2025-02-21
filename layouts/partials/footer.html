@@ -7,6 +7,13 @@
         <div class="col-12 text-center">
             <h2 style="color: #FFFFFF; font-size: 1.7rem;">{{ i18n "head_title_short" }}</h2>
             <span style="color: #FFFFFF;">{{ .Site.Data.homepage.contact.email }}</span>
+            <div id="footer-social-links">
+              {{ range .Site.Data.homepage.showcase.socialLinks }}
+              <a href="{{ .URL | absURL }}" target="_blank" rel="nofollow noopener noreferrer" aria-label="{{ .icon }}"
+                ><i class="icon-{{ .icon }}"></i
+              ></a>
+              {{ end }}
+            </div>
         </div>
       </div>
 
