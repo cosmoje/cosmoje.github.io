@@ -187,6 +187,10 @@ p, li {
     }
 }
 
+strong {
+    font-weight: $font-weight-bold;
+}
+
 // Make the list be a bit closer to the preceding paragraph
 p + ul, p + ol {
     margin-top: calc(-30px + 16px) !important;
