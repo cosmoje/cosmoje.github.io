@@ -21,10 +21,10 @@ Tämä onnistuu kehittämällä kattavampaa joukkoliikennettä, parantamalla kä
 Espoo voi olla kaupunki, jossa arjen matkat ovat lyhyempiä, joustavampia ja sujuvampia – ja jossa sinun ei tarvitse istua ruuhkissa.
 
 ##### Kaikki hyötyvät kestävämmästä liikkumisesta
-Kun kaupunki panostaa kävelyyn, pyöräilyyn ja joukkoliikenteeseen, siitä hyötyvät kaikki: liikunta parantaa hyvinvointia, liikenneturmat vähenevät, asunnot ovat halvempia kun autopaikkoja on vähemmän, lähiluontoa säästyy kun ei tarvitse rakentaa uusia kaistoja, ilmastopäästöt pienenevät – ja myös autoilijat kiittävät, kun ruuhkat eivät kasva hallitsemattomasti.
+Kun panostamme kävelyyn, pyöräilyyn ja joukkoliikenteeseen, siitä hyötyvät kaikki: liikunta parantaa hyvinvointia, liikenneturmat vähenevät, asunnot ovat halvempia kun autopaikkoja rakennetaan vähemmän, lähiluontoa säästyy kun ei tarvitse rakentaa uusia kaistoja, päästöt pienenevät – ja myös autoilijat kiittävät, kun ruuhkat eivät kasva hallitsemattomasti.
 
 ##### Uudet kaistat eivät ratkaise ruuhkia (vaikka niin voisi luulla)
-Moni on varmaan ihmetellyt: "Juurihan tähän rakennettiin uusi kaista ja hieno liittymä, miksi ruuhka ei silti hellitä?" Syynä on niin kutsuttu **itseään toteuttava kysyntä** (engl. induced demand): mitä enemmän lisätään kaistoja, sitä enemmän liikennettä myös syntyy. Toisaalta, kun kävelystä, pyöräilystä ja joukkoliikenteestä tehdään halpoja, sujuvia ja turvallisia, ihmiset alkavat myös käyttää niitä enemmän.
+Moni on varmaan joskus ihmetellyt: "Juurihan tähän rakennettiin uusi kaista ja hieno liittymä, miksi ruuhka ei silti hellitä?" Syynä on niin kutsuttu **itseään toteuttava kysyntä** (engl. induced demand): mitä enemmän lisätään kaistoja, sitä enemmän liikennettä myös syntyy. Toisaalta, kun kävelystä, pyöräilystä ja joukkoliikenteestä tehdään halpoja, sujuvia ja turvallisia, ihmiset alkavat myös käyttää niitä enemmän.
 
 ##### Kasvavalle Espoolle toimiva joukkoliikenne on elinehto
 Espoon odotetaan kasvavan yli [75 000 uudella asukkaalla vuoteen 2040 mennessä](https://www.hs.fi/pkseutu/art-2000010689530.html). Ainoa tapa liikutella näin suurta määrää ihmisiä turvallisesti, tehokkaasti ja kestävästi on joukkoliikenne. Sen on oltava nopeaa, luotettavaa ja kilpailukykyistä, jotta se on houkutteleva vaihtoehto yhä useammalle.
