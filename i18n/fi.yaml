@@ -60,18 +60,25 @@
 - id: "about_content"
   translation: <p class="lead"><span class="fw-bold">Diplomi-insinööri ja
         datatieteilijä</span>, jolla kykyä ymmärtää monimutkaisia ongelmia ja
-        kehittää toimivia ratkaisuja. Pyrin aina näkemään ison kuvan ja osaan
-        yhdistää eri näkökulmia käytännön ratkaisuiksi.</p>
+        kehittää toimivia ratkaisuja. Työssäni – ja elämässä muutenkin – etsin
+        ratkaisuja monimutkaisiin ongelmiin ja yhdistän eri näkökulmat
+        käytännön teoiksi.</p>
       <p class="lead"><span class="fw-bold">Paljasjalkainen
-        espoolainen&#58;</span> Olen syntynyt ja asunut koko elämäni Espoossa.
-        Rakastan kaupunkiamme, ja tunnen sen haasteet ja mahdollisuudet.</p>
+        espoolainen&#58;</span> Olen asunut koko elämäni Espoossa. Kasvoin
+        Mankkaalla kaksikielisessä perheessä ja olen nyt asunut 10 vuotta
+        Tapiolassa. Rakastan kaupunkiamme ja tunnen sen haasteet ja
+        mahdollisuudet.</p>
       <p class="lead"><span class="fw-bold">Järjestöaktiivi&#58;</span> Olen
-        mukana monessa, sekä Aalto-yliopiston yhdistyksissä että kuorossa.
-        Kaksikielisenä ehdokkaana rakennan siltoja eri kulttuurien ja
-        kieliryhmien välillä myös arjessa.</p>
+        mukana monessa. Vuodet Aalto-yliopiston ylioppilaskunnan edustajistossa
+        ja Teknologföreningenissä opettivat, miten yhteisöjä rakennetaan ja
+        asioihin vaikutetaan tehokkaasti. Kaksikielisenä ehdokkaana rakennan
+        siltoja eri kulttuurien ja kieliryhmien välillä myös arjessa.</p>
       <p class="lead"><span class="fw-bold">Elän arvojeni mukaan&#58;</span>
         Pyöräily ja kävely, vegaaniruoan suosiminen sekä kestävä kulutus ovat
         ilmastotekoja arjessani.</p>
+      <p class="lead"><span class="fw-bold">Vastapainona tietotyölle</span>
+        rakastan tehdä puutöitä, laulaa kuorossa ja liikkua monipuolisesti
+        pyöräilyn, sulkapallon tai kuntosalin muodossa.</p>
 
 - id: "about_button"
   translation: "Cosmosta"

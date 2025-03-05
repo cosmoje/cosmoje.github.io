@@ -60,20 +60,28 @@
 - id: "about_content"
   translation: <p class="lead"><span class="fw-bold">Diplomingenjör och
         dataforskare</span>, med förmåga att förstå komplexa problem och
-        utveckla fungerande lösningar. Jag strävar alltid efter att se helheten
-        och kan förena olika perspektiv till praktiska lösningar.</p>
+        utveckla fungerande lösningar. I mitt arbete – och i livet överlag –
+        söker jag lösningar på komplexa problem och kombinerar olika perspektiv
+        till praktiska åtgärder.</p>
       <p class="lead"><span class="fw-bold">Livslång Esbobo&#58;</span> Född
-        och uppvuxen i Esbo och har levt i staden hela livet. Älskar staden och
-        känner dess utmaningar och möjligheter.</p>
-      <p class="lead"><span class="fw-bold">Föreningsaktiv&#58;</span>
-        Engagerad i Teknologföreningen och i diverse föreningar vid
-        Aalto-universitetet samt i Akademiska Sångföreningen. Som tvåspråkig
-        kandidat förstår jag den särskilda vikten som måste läggas vid att
-        bevara den finlandssvenska servicen och kulturen.</p>
+        och uppvuxen i en tvåspråkig familj i Mankans och har bott de senaste
+        10 åren i Hagalund. Jag älskar staden och känner dess utmaningar och
+        möjligheter.</p>
+      <p class="lead"><span class="fw-bold">Finlandssvensk
+      föreningsaktiv&#58;</span>
+        Åren i Aalto-universitetets studentkårs delegation och på
+        Teknologföreningen lärde mig hur man bygger upp gemenskaper och driver
+        frågor på ett effektivt sätt. Som tvåspråkig kandidat förstår jag den
+        särskilda vikten som måste läggas vid att bevara den finlandssvenska
+        servicen och kulturen.</p>
       <p class="lead"><span class="fw-bold">Lever efter mina
         värderingar&#58;</span> Jag cyklar, promenerar och använder
         kollektivtrafik aktivt, prioriterar vegansk mat och strävar efter en
         hållbar konsumtion.</p>
+      <p class="lead"><span class="fw-bold">Som motvikt till
+      informationsarbete</span>
+        älskar jag att slöjda, sjunga i Akademen och motionera mångsidigt, vare
+        sig det är cykling, badminton eller gym.</p>
 
 - id: "about_button"
   translation: "Om Cosmo"
