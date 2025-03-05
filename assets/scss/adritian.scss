@@ -46,17 +46,17 @@
 
 /* ABOUT */
 // Wide screens: decrease unnecessary whitespace around the about section
-@media (min-width: 992px) {
+@media (min-width: 768px) {
     .rad-showcase + section {
-        margin-top: -70px;
+        margin-top: -200px;
         padding-top: 0px;
-        margin-bottom: -70px;
+        margin-bottom: -200px;
         padding-bottom: 0px;
     }
 }
 // Fix the profile picture being too high (due to a larger filesize), causing too much
 // whitespace around it on smaller screens
-@media (max-width: 991px) {
+@media (max-width: 767px) {
     .about__profile-picture, .about__profile-picture img {
         max-height: 500px;
     }
