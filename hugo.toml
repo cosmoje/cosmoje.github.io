@@ -49,11 +49,6 @@ pluralizeListTitles = false
         name = "Ota yhteyttä"
         URL = "#contact"
         weight = 3
-      
-      [[languages.fi.menus.footer]]
-        name = "Ota yhteyttä"
-        URL = "#contact"
-        weight = 3
 
   [languages.sv]
     disabled = false
@@ -78,28 +73,17 @@ pluralizeListTitles = false
         URL = "sv/#contact"
         weight = 3
 
-      [[languages.sv.menus.footer]]
-        name = "Ta kontakt"
-        URL = "sv/#contact"
-        weight = 3
-  
   [languages.en]
-    disabled = true
+    disabled = false
     languageCode = 'en'
     languageDirection = 'ltr'
     languageName = 'English'
     title = ''
-    weight = 1
+    weight = 4
 
-    [languages.en.menus]
       [[languages.en.menus.header]]
-        name = 'About'
-        URL = 'en/#about'
-        weight = 1
-
-      [[languages.en.menus.footer]]
-        name = "About"
-        URL = "en/#about"
+        name = "Themes"
+        URL = "en/themes"
         weight = 1
 
       [[languages.en.menus.header]]
@@ -107,17 +91,7 @@ pluralizeListTitles = false
         URL = "en/blog"
         weight = 2
 
-      [[languages.en.menus.footer]]
-        name = "Blog"
-        URL = "en/blog"
-        weight = 2
-
       [[languages.en.menus.header]]
-        name = "Contact"
-        URL = "en/#contact"
-        weight = 3
-
-      [[languages.en.menus.footer]]
         name = "Contact"
         URL = "en/#contact"
         weight = 3
