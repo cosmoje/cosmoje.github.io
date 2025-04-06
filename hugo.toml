@@ -49,11 +49,6 @@ pluralizeListTitles = false
         name = "Ota yhteyttä"
         URL = "#contact"
         weight = 3
-      
-      [[languages.fi.menus.footer]]
-        name = "Ota yhteyttä"
-        URL = "#contact"
-        weight = 3
 
   [languages.sv]
     disabled = false
@@ -74,11 +69,6 @@ pluralizeListTitles = false
         weight = 2
 
       [[languages.sv.menus.header]]
-        name = "Ta kontakt"
-        URL = "sv/#contact"
-        weight = 3
-
-      [[languages.sv.menus.footer]]
         name = "Ta kontakt"
         URL = "sv/#contact"
         weight = 3
