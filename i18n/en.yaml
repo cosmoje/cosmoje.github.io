@@ -14,22 +14,22 @@
   translation: "Cosmo Jenytin | Home"
 
 - id: "head_title_short"
-  translation: "Cosmo Jenytin – 31"
+  translation: "Cosmo Jenytin"
 
 - id: "head_description"
-  translation: "Cosmo Jenytin – Green Party candidate for the 2025 municipal elections in Espoo."
+  translation: "Cosmo Jenytin – Green Party deputy city councillor in Espoo."
 
 # Homepage showcase
 - id: "showcase_title"
-  translation: "Cosmo Jenytin – 31"
+  translation: "Cosmo Jenytin"
 
 - id: "showcase_subtitle"
-  translation: "Engineer and data scientist from Tapiola. Green Party candidate for the 2025 municipal elections in Espoo, with the number 31."
+  translation: "Engineer and data scientist from Tapiola. Green Party deputy city councillor in Espoo."
 
 - id: "showcase_description"
   translation: <p class="lead">
-      I am running for the 2025 municipal elections because decisions today secure
-      better opportunities for tomorrow.
+      I am in municipal politics because decisions today secure better
+      opportunities for tomorrow.
     </p>
     <p class="lead">
       Climate change is the greatest challenge of our time, but solving it also

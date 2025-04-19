@@ -14,22 +14,22 @@
   translation: "Cosmo Jenytin | Hem"
 
 - id: "head_title_short"
-  translation: "Cosmo Jenytin – 31"
+  translation: "Cosmo Jenytin"
 
 - id: "head_description"
-  translation: "Cosmo Jenytin – De Grönas kandidat i kommunalvalet 2025 till Esbo stadsfullmäktige."
+  translation: "Cosmo Jenytin – De Grönas ersättare i Esbo stadsfullmäktige."
 
 ## Homepage showcase
 - id: "showcase_title"
-  translation: "Cosmo Jenytin – 31"
+  translation: "Cosmo Jenytin"
 
 - id: "showcase_subtitle"
-  translation: "Diplomingenjör och dataforskare från Hagalund. Grön kandidat i kommunalvalet 2025, med nummer 31."
+  translation: "Diplomingenjör och dataforskare från Hagalund. De Grönas ersättare i Esbo stadsfullmäktige."
 
 - id: "showcase_description"
   translation: <p class="lead">
-      Jag ställer upp i kommunalvalet 2025 för att dagens beslut måste trygga
-      bättre möjligheter för morgondagen.
+      Jag är med i kommunalpolitiken för att dagens beslut måste trygga bättre
+      möjligheter för morgondagen.
     </p>
     <p class="lead">
       Klimatförändringen är vår tids största utmaning, men att ta itu med den
