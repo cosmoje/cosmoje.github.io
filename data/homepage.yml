@@ -30,7 +30,7 @@ about:
   enable: true
   button:
     icon: "icon-user"
-    URL: "#about"
+    URL: "about"
   image:
     x: "images/about/Cosmo-Jenytin-2025-kuntavaalit-ehdokas-vihreät-espoo-inside-medium.jpg"
     _2x: "images/about/Cosmo-Jenytin-2025-kuntavaalit-ehdokas-vihreät-espoo-inside.jpg"
