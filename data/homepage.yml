@@ -10,8 +10,8 @@ hero_banner:
 showcase:
   enable: true
   image:
-    x: "images/showcase/Cosmo-Jenytin-Espoo-Vihreät-varavaltuutettu-ulkona.jpg"
-    _2x: "images/showcase/Cosmo-Jenytin-Espoo-Vihreät-varavaltuutettu-ulkona-medium.jpg"
+    x: "images/showcase/Cosmo-Jenytin-Espoo-Vihreät-varavaltuutettu-ulkona-medium.jpg"
+    _2x: "images/showcase/Cosmo-Jenytin-Espoo-Vihreät-varavaltuutettu-ulkona.jpg"
     
   imageMobile:
     x: "images/showcase/Cosmo-Jenytin-Espoo-Vihreät-varavaltuutettu-ulkona-medium.jpg"
