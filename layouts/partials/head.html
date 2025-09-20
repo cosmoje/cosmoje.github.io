@@ -41,12 +41,18 @@
         <link rel="stylesheet" href="{{ .URL | absURL }}">
     {{- else }}
         {{- $cssFile := resources.Get .URL }}
-        {{- $cssResources = $cssResources | append $cssFile }}
+        {{- if $cssFile }}
+            {{- $cssResources = $cssResources | append $cssFile }}
+        {{- end }}
     {{- end }}
 {{- end }}
 
-{{- $cssBundle := $cssResources | resources.Concat "css/bundle.css" }}
+{{- $cssBundle := "" }}
+{{- if $cssResources }}
+    {{- $cssBundle = $cssResources | resources.Concat "css/bundle.css" }}
+{{- end }}
 
+{{- if $cssBundle }}
 {{- $css := $cssBundle }} 
 {{- if hugo.IsProduction }} 
     {{- $css = $css | minify | fingerprint | resources.PostProcess }} 
@@ -71,6 +77,7 @@
     {{- end }}
   />
 </noscript>
+{{- end }}
 {{- range .Site.Params.plugins.scss }}
   {{- $scss := resources.Get .URL }}
   {{- $style := $scss | css.Sass }}

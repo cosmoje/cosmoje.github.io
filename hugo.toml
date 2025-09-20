@@ -41,14 +41,19 @@ pluralizeListTitles = false
         weight = 1
 
       [[languages.fi.menus.header]]
+        name = "Tietoa minusta"
+        URL = "/about"
+        weight = 2
+
+      [[languages.fi.menus.header]]
         name = "Blogi"
         URL = "/blog"
-        weight = 2
+        weight = 3
 
       [[languages.fi.menus.header]]
         name = "Ota yhteyttä"
         URL = "#contact"
-        weight = 3
+        weight = 4
 
   [languages.sv]
     disabled = false
@@ -64,14 +69,19 @@ pluralizeListTitles = false
         weight = 1
 
       [[languages.sv.menus.header]]
+        name = "Om mig"
+        URL = "sv/about"
+        weight = 2
+
+      [[languages.sv.menus.header]]
         name = "Blogg"
         URL = "sv/blog"
-        weight = 2
+        weight = 3
 
       [[languages.sv.menus.header]]
         name = "Ta kontakt"
         URL = "sv/#contact"
-        weight = 3
+        weight = 4
 
   [languages.en]
     disabled = false
@@ -87,14 +97,19 @@ pluralizeListTitles = false
         weight = 1
 
       [[languages.en.menus.header]]
+        name = "About"
+        URL = "en/about"
+        weight = 2
+
+      [[languages.en.menus.header]]
         name = "Blog"
         URL = "en/blog"
-        weight = 2
+        weight = 3
 
       [[languages.en.menus.header]]
         name = "Contact"
         URL = "en/#contact"
-        weight = 3
+        weight = 4
 
 # Plugins
 [params.plugins]

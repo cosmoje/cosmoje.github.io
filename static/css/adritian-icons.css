@@ -1,0 +1,26 @@
+/* Icon font styles */
+@font-face {
+  font-family: 'adritian-icons';
+  src: url('../fonts/adritian-icons.woff2') format('woff2'),
+       url('../fonts/adritian-icons.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  font-family: 'adritian-icons' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-user:before { content: "\e900"; }
+.icon-email:before { content: "\e901"; }
+.icon-instagram:before { content: "\e902"; }
+.icon-linkedin:before { content: "\e903"; }
+.icon-arrow-right:before { content: "\e904"; }
