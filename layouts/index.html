@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="{{.Language.Lang}}">
+<head>
+    {{ partial "head.html" . }}
+    {{ partial "head_custom.html" . }}
+</head>
+<body class="home">
+    {{ partial "header.html" . }}
+    
+    {{ if .Site.Data.homepage.showcase.enable }}
+        {{ partial "showcase.html" . }}
+    {{ end }}
+    
+    {{ if .Site.Data.homepage.about.enable }}
+        {{ partial "about.html" . }}
+    {{ end }}
+    
+    {{ if .Site.Data.homepage.experience.enable }}
+        {{ partial "themes.html" . }}
+    {{ end }}
+    
+    {{ if .Site.Data.homepage.contact.enable }}
+        {{ partial "contact.html" . }}
+    {{ end }}
+    
+    {{ partial "footer.html" . }}
+    {{ partial "base-foot.html" . }}
+</body>
+</html>

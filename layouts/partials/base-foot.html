@@ -1,0 +1,19 @@
+{{- $jsResources := slice }}
+{{- range .Site.Params.plugins.js }}
+    {{- if findRE "^http" .URL }}
+        <script src="{{ .URL }}"></script>
+    {{- else }}
+        {{- $jsFile := resources.Get .URL }}
+        {{- if $jsFile }}
+            {{- $jsResources = $jsResources | append $jsFile }}
+        {{- end }}
+    {{- end }}
+{{- end }}
+
+{{- if $jsResources }}
+    {{- $bundledJS := $jsResources | resources.Concat "js/bundle.js" }}
+    {{- if hugo.IsProduction }}
+        {{- $bundledJS = $bundledJS | resources.Minify }}
+    {{- end }}
+    <script src="{{ $bundledJS.RelPermalink }}"></script>
+{{- end }}
